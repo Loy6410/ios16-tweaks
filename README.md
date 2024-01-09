@@ -2,29 +2,35 @@
 A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 
 **YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK**
-
 # Tweaks
 (This list will be enhanced)
 - AdvancedBrightnessSlider
 - Amber
 - AppColorClose
 - AppData
+- App Hider
+- AutoBrightnessToggle (CCSupport)
 - Atria
 - BetaAlertRemove
 - betterAlarm
+- CAHighFPS
 - CC On & Off
 - CCMusicArtwork
 - CloseAll
 - Ellekit
 - Everest
 - FakeSignalBar
+- FingerLock
 - Five Icon Dock
 - IconOrder
 - Juice (idk if it works, if someone could test it?)
+- LocationService (CCSupport)
 - MilkyWay4 (idk if it works, if someone could test it?)
 - NowPlayingIconXVI
+- OTADisabler
 - PanCake
 - PinAnim
+- PowerSelector
 - Shuffle
 - SnowBoard
 - Sonitus (idk if it works, if someone could test it?)
@@ -32,6 +38,9 @@ A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 - StatusFolder
 - Uptime
 - Velvet 2
+# Themes
+- Ambre
+- Felicity Pro
 # Credits
 - Roothide Bootstrap - [roothidedev](https://github.com/roothide/Bootstrap)
 - Serotonin semi-jailbreak - [mineek and htrowii](https://github.com/mineek/Serotonin)
