@@ -4,6 +4,7 @@ A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 **YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK**
 # Tweaks
 (This list will be enhanced)
+- 3DAppVersionSpoofer
 - AdvancedBrightnessSlider
 - Amber
 - AppColorClose
@@ -17,6 +18,9 @@ A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 - CC On & Off
 - CCMusicArtwork
 - CloseAll
+- ColorMyBattery
+- CustomizeCC
+- DownloadBar13
 - Ellekit
 - Everest
 - FakeSignalBar
