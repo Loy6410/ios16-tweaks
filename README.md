@@ -11,6 +11,7 @@ A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 - AppData
 - App Hider
 - AutoBrightnessToggle (CCSupport)
+- AutoUnlockX
 - Atria
 - BetaAlertRemove
 - betterAlarm
@@ -22,6 +23,7 @@ A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 - CustomizeCC
 - DownloadBar13
 - Ellekit
+- Eneko
 - Everest
 - FakeSignalBar
 - FingerLock
@@ -40,6 +42,7 @@ A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 - Sonitus (idk if it works, if someone could test it?)
 - Spectrum
 - StatusFolder
+- Trim
 - Uptime
 - Velvet 2
 # Themes
