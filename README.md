@@ -2,8 +2,8 @@
 A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 # Tweaks
 (This list will be enhanced)
-AdvancedBrightnessSlider
-Amber
+•AdvancedBrightnessSlider
+•Amber
 AppColorClose
 AppData
 Atria
