@@ -1,5 +1,6 @@
 # ios16-tweaks
 A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
+**YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK**
 # Tweaks
 (This list will be enhanced)
 - AdvancedBrightnessSlider
