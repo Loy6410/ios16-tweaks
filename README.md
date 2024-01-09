@@ -29,6 +29,7 @@ A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 - FingerLock
 - Five Icon Dock
 - IconOrder
+- Jade
 - Juice (idk if it works, if someone could test it?)
 - LocationService (CCSupport)
 - MilkyWay4 (idk if it works, if someone could test it?)
@@ -37,6 +38,8 @@ A list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 - PanCake
 - PinAnim
 - PowerSelector
+- QuickActions
+- ShowTouch
 - Shuffle
 - SnowBoard
 - Sonitus (idk if it works, if someone could test it?)
