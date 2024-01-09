@@ -14,13 +14,16 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - AutoBrightnessToggle (CCSupport)
 - AutoUnlockX
 - Atria
+- BackgrounderAction (CCSupport)
 - BetaAlertRemove
 - betterAlarm
+- BoldersReborn
 - CAHighFPS
 - CC On & Off
 - CCMusicArtwork
 - CloseAll
 - ColorMyBattery
+- Cthulhu
 - CustomizeCC
 - DownloadBar13
 - Ellekit
@@ -29,6 +32,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - FakeSignalBar
 - FingerLock
 - Five Icon Dock
+- Gravitation
 - IconOrder
 - Jade
 - Juice (idk if it works, if someone could test it?)
