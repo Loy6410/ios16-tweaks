@@ -4,61 +4,66 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 **YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK**
 # Tweaks
 (This list will be enhanced with tabs and repos)
-- 3DAppVersionSpoofer
-- AdvancedBrightnessSlider
-- Always120
-- Amber
-- AppColorClose
-- AppData
-- App Hider
-- AutoBrightnessToggle (CCSupport)
-- AutoUnlockX
-- Atria
-- BackgrounderAction (CCSupport)
-- BetaAlertRemove
-- betterAlarm
-- BoldersReborn
-- CAHighFPS
-- CC On & Off
-- CCMusicArtwork
-- CloseAll
-- ColorMyBattery
-- Cthulhu
-- CustomizeCC
-- DownloadBar13
-- Ellekit
-- Eneko
-- Everest
-- FakeSignalBar
-- FingerLock
-- Five Icon Dock
-- Gravitation
-- IconOrder
-- Jade
-- Juice (idk if it works, if someone could test it?)
-- LocationService (CCSupport)
-- MilkyWay4 (idk if it works, if someone could test it?)
-- Nexus
-- NowPlayingIconXVI
-- OTADisabler
-- PanCake
-- PinAnim
-- PowerSelector
-- Prysm
-- QuickActions
-- ShowTouch
-- Shuffle
-- Snapper3
-- SnowBoard
-- Sonitus (idk if it works, if someone could test it?)
-- Spectrum
-- StatusFolder
-- Trim (saw for rootless)
-- Uptime
-- Velvet 2
+- 3DAppVersionSpoofer - RootHide's Repo
+- AdvancedBrightnessSlider - Havoc
+- Always120 - Havoc
+- Amber - PoomSmart's Repo
+- AppColorClose - PoomSmart's Repo
+- AppData - RootHide's Repo
+- App Hider - BigBoss
+- ArtFull - Havoc
+- AutoBrightnessToggle (CCSupport) - ichitaso repository
+- AutoUnlockX - SparkDev
+- Atria - Chariz
+- BackgrounderAction15 (CCSupport) - Akusio repo
+- BetaAlertRemove -
+- betterAlarm - Chariz
+- BoldersReborn - Chariz
+- CAHighFPS -
+- Cask3 - Chariz
+- CC On & Off -
+- CCMusicArtwork - SparkDev
+- CloseAll - Havoc
+- ColorMyBattery -
+- Cthulhu -
+- CustomizeCC - Havoc
+- Dodo - Ginsu Tweaks
+- DownloadBar13 -
+- Ellekit -
+- Eneko -
+- Everest - Havoc
+- FakeSignalBar -
+- FingerLock - Havoc
+- Five Icon Dock -
+- Gravitation -
+- IconOrder - Havoc
+- IconRotation - ETHN's Repo
+- Jade - Chariz
+- Juice (idk if it works, if someone could test it?) - SparkDev
+- LocationService (CCSupport) - ichitaso repository
+- MilkyWay4 (idk if it works, if someone could test it?) - Akusio repo
+- Nexus - Havoc
+- NowPlayingIconXVI - Havoc
+- OTADisabler - ichitaso repository
+- PanCake - AnthoPak's Repo
+- PinAnim - Havoc
+- PowerSelector - ichitaso repository
+- Prysm -
+- QuickActions - Chariz
+- ShowTouch -
+- Shuffle - CreatureCoding
+- Snapper3 - Havoc
+- SnowBoard - SparkDev
+- Sonitus (idk if it works, if someone could test it?) - Chariz
+- Spectrum -
+- StatusFolder -
+- Trim (saw for rootless) -
+- Uptime - Havoc
+- Velvet 2 - Chariz
 # Themes
-- Ambre
-- Felicity Pro
+- Ambre - JunesiPhone
+- Felicity Pro - Havoc
+- Lollipop - Havoc
 # Credits
 - Roothide Bootstrap - [roothidedev](https://github.com/roothide/Bootstrap)
 - Serotonin semi-jailbreak - [mineek and htrowii](https://github.com/mineek/Serotonin)
