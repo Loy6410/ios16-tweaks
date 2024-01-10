@@ -20,8 +20,11 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - betterAlarm - Chariz
 - BoldersReborn - Chariz
 - CAHighFPS -
+- CarBridge - Havoc
+- Cardculator - Havoc
 - Cask3 - Chariz
 - CC On & Off -
+- CCPowerMenu - MTAC's Repo
 - CCMusicArtwork - SparkDev
 - CloseAll - Havoc
 - ColorMyBattery -
@@ -38,10 +41,12 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Gravitation -
 - IconOrder - Havoc
 - IconRotation - ETHN's Repo
+- iKeywi 4 - Havoc
 - Jade - Chariz
 - Juice (idk if it works, if someone could test it?) - SparkDev
 - LocationService (CCSupport) - ichitaso repository
 - MilkyWay4 (idk if it works, if someone could test it?) - Akusio repo
+- NewTerm 3 Beta - RootHide's Repo
 - NowPlayingIconXVI - Havoc
 - OTADisabler - ichitaso repository
 - PanCake - AnthoPak's Repo
@@ -51,7 +56,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - QuickActions - Chariz
 - ShowTouch -
 - Shuffle - CreatureCoding
-- Snapper3 - Havoc
+- Snapper 3 - Havoc
 - SnowBoard - SparkDev
 - Sonitus (idk if it works, if someone could test it?) - Chariz
 - Spectrum -
@@ -63,6 +68,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Ambre - JunesiPhone
 - Felicity Pro - Havoc
 - Lollipop - Havoc
+- Junipero - Havoc
 # Tweaks not working currently
 - Nexus (Havoc) - sends you to safe mode
 # Credits
