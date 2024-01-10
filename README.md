@@ -19,20 +19,20 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - BetaAlertRemove -
 - betterAlarm - Chariz
 - BoldersReborn - Chariz
-- CAHighFPS -
+- CAHighFPS - PoomSmart's Repo
 - Cask3 - Chariz
 - CC On & Off - RootHide's Repo
 - CCMusicArtwork - SparkDev
 - CloseAll - Havoc
-- ColorMyBattery -
-- Cthulhu -
+- ColorMyBattery - RootHide's Repo
+- Cthulhu - BigBoss
 - CustomizeCC - Havoc
 - Dodo - Ginsu Tweaks
-- DownloadBar13 -
+- DownloadBar13 - alias20
 - Ellekit - RootHide's Repo
-- Eneko -
+- Eneko - [vyolit](https://github.com/vyolit/Eneko)
 - Everest - Havoc
-- FakeSignalBar -
+- FakeSignalBar - alias20
 - FingerLock - Havoc
 - Five Icon Dock - RootHide's Repo
 - Gravitation -
@@ -45,16 +45,16 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - PanCake - AnthoPak's Repo
 - PinAnim - Havoc
 - PowerSelector - ichitaso repository
-- Prysm -
+- ~~Prysm~~ (can someone test?)
 - QuickActions - Chariz
 - ShowTouch - RootHide's Repo
 - Shuffle - CreatureCoding
 - Snapper3 - Havoc
 - SnowBoard - SparkDev
 - Sonitus (idk if it works, if someone could test it?) - Chariz
-- Spectrum -
-- StatusFolder -
-- Trim (saw for rootless) -
+- Spectrum - alias20
+- StatusFolder - BibBoss
+- Trim (saw for rootless) - iGerman
 - Uptime - RootHide's Repo
 - Velvet 2 - Chariz
 # Themes
@@ -64,7 +64,8 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 # Tweaks not working currently
 - Nexus (Havoc) - sends you to safe mode
 - MilkyWay4 (Akusio repo) - theres no option 3D touch menu to open the app as a window
-- Juice (SparkDev) - it seems that after you link your patreon account, the licence doesnt take effect. (someone with license could still test it tho and let me know)
+- VolVibes (Havoc) - doesn't work and crashes settings when trying to open its preferences
+- Juice (SparkDev) - it seems that after you link your patreon account, the licence doesnt take effect. (someone could still test it tho and let me know)
 # Credits
 - Roothide Bootstrap - [roothidedev](https://github.com/roothide/Bootstrap)
 - Serotonin semi-jailbreak - [mineek and htrowii](https://github.com/mineek/Serotonin)
