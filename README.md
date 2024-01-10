@@ -42,7 +42,6 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Juice (idk if it works, if someone could test it?) - SparkDev
 - LocationService (CCSupport) - ichitaso repository
 - MilkyWay4 (idk if it works, if someone could test it?) - Akusio repo
-- Nexus - Havoc
 - NowPlayingIconXVI - Havoc
 - OTADisabler - ichitaso repository
 - PanCake - AnthoPak's Repo
@@ -64,6 +63,8 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Ambre - JunesiPhone
 - Felicity Pro - Havoc
 - Lollipop - Havoc
+# Tweaks not working currently
+- Nexus (Havoc) - sends you to safe mode
 # Credits
 - Roothide Bootstrap - [roothidedev](https://github.com/roothide/Bootstrap)
 - Serotonin semi-jailbreak - [mineek and htrowii](https://github.com/mineek/Serotonin)
