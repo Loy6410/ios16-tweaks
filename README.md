@@ -21,7 +21,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - BoldersReborn - Chariz
 - CAHighFPS -
 - Cask3 - Chariz
-- CC On & Off -
+- CC On & Off - RootHide's Repo
 - CCMusicArtwork - SparkDev
 - CloseAll - Havoc
 - ColorMyBattery -
@@ -29,12 +29,12 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - CustomizeCC - Havoc
 - Dodo - Ginsu Tweaks
 - DownloadBar13 -
-- Ellekit -
+- Ellekit - RootHide's Repo
 - Eneko -
 - Everest - Havoc
 - FakeSignalBar -
 - FingerLock - Havoc
-- Five Icon Dock -
+- Five Icon Dock - RootHide's Repo
 - Gravitation -
 - IconOrder - Havoc
 - IconRotation - ETHN's Repo
@@ -48,7 +48,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - PowerSelector - ichitaso repository
 - Prysm -
 - QuickActions - Chariz
-- ShowTouch -
+- ShowTouch - RootHide's Repo
 - Shuffle - CreatureCoding
 - Snapper3 - Havoc
 - SnowBoard - SparkDev
@@ -56,7 +56,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Spectrum -
 - StatusFolder -
 - Trim (saw for rootless) -
-- Uptime - Havoc
+- Uptime - RootHide's Repo
 - Velvet 2 - Chariz
 # Themes
 - Ambre - JunesiPhone
