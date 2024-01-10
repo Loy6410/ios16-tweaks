@@ -62,7 +62,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Spectrum -
 - StatusFolder -
 - Trim (saw for rootless) -
-- Uptime - Havoc
+- Uptime - RootHide's Repo
 - Velvet 2 - Chariz
 # Themes
 - Ambre - JunesiPhone
