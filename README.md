@@ -40,7 +40,6 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - IconRotation - ETHN's Repo
 - Jade - Chariz
 - LocationService (CCSupport) - ichitaso repository
-- MilkyWay4 (idk if it works, if someone could test it?) - Akusio repo
 - NowPlayingIconXVI - Havoc
 - OTADisabler - ichitaso repository
 - PanCake - AnthoPak's Repo
@@ -64,6 +63,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Lollipop - Havoc
 # Tweaks not working currently
 - Nexus (Havoc) - sends you to safe mode
+- MilkyWay4 (Akusio repo) - theres no option 3D touch menu to open the app as a window
 - Juice (SparkDev) - it seems that after you link your patreon account, the licence doesnt take effect. (someone with license could still test it tho and let me know)
 # Credits
 - Roothide Bootstrap - [roothidedev](https://github.com/roothide/Bootstrap)
