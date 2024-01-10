@@ -39,7 +39,6 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - IconOrder - Havoc
 - IconRotation - ETHN's Repo
 - Jade - Chariz
-- Juice (idk if it works, if someone could test it?) - SparkDev
 - LocationService (CCSupport) - ichitaso repository
 - MilkyWay4 (idk if it works, if someone could test it?) - Akusio repo
 - Nexus - Havoc
