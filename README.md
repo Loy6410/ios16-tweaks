@@ -25,10 +25,12 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - CCMusicArtwork - SparkDev
 - CloseAll - Havoc
 - ColorMyBattery - RootHide's Repo
+- covertCK - CreatureCoding
 - Cthulhu - BigBoss
 - CustomizeCC - Havoc
 - Dodo - Ginsu Tweaks
 - DownloadBar13 - alias20
+- DynamicPeninsula - Limneos Repo
 - Ellekit - RootHide's Repo
 - Eneko - [vyolit](https://github.com/vyolit/Eneko)
 - Everest - Havoc
@@ -45,10 +47,10 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - PanCake - AnthoPak's Repo
 - PinAnim - Havoc
 - PowerSelector - ichitaso repository
-- ~~Prysm~~ (can someone test?)
 - QuickActions - Chariz
 - ShowTouch - RootHide's Repo
 - Shuffle - CreatureCoding
+- SmartBattery - Havoc
 - Snapper3 - Havoc
 - SnowBoard - SparkDev
 - Sonitus (idk if it works, if someone could test it?) - Chariz
@@ -61,8 +63,10 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Ambre - JunesiPhone
 - Felicity Pro - Havoc
 - Lollipop - Havoc
+- Viola - Havoc
 # Tweaks not working currently
 - Nexus (Havoc) - sends you to safe mode
+- Prysm - sends you to safe mode
 - MilkyWay4 (Akusio repo) - theres no option 3D touch menu to open the app as a window
 - VolVibes (Havoc) - doesn't work and crashes settings when trying to open its preferences
 - Juice (SparkDev) - it seems that after you link your patreon account, the licence doesnt take effect. (someone could still test it tho and let me know)
