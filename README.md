@@ -63,13 +63,16 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Ambre - JunesiPhone
 - Felicity Pro - Havoc
 - Lollipop - Havoc
+- Moxy - Havoc
 - Viola - Havoc
 # Tweaks not working currently
+- Aemulo (Chariz) - no tweak injection support for NFCD
+- Color3DIcons (BigBoss) - sends you to springboard when trying to open colored 3D touch holding app
+- Juice (SparkDev) - it seems that after you link your patreon account, the licence doesnt take effect
+- MilkyWay4 (Akusio repo) - theres no option 3D touch menu to open the app as a window
 - Nexus (Havoc) - sends you to safe mode
 - Prysm - sends you to safe mode
-- MilkyWay4 (Akusio repo) - theres no option 3D touch menu to open the app as a window
 - VolVibes (Havoc) - doesn't work and crashes settings when trying to open its preferences
-- Juice (SparkDev) - it seems that after you link your patreon account, the licence doesnt take effect. (someone could still test it tho and let me know)
 # Credits
 - Roothide Bootstrap - [roothidedev](https://github.com/roothide/Bootstrap)
 - Serotonin semi-jailbreak - [mineek and htrowii](https://github.com/mineek/Serotonin)
