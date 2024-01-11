@@ -27,6 +27,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - ColorMyBattery - RootHide's Repo
 - Cthulhu - BigBoss
 - CustomizeCC - Havoc
+- CircleApps15 - Havoc
 - Dodo - Ginsu Tweaks
 - DownloadBar13 - alias20
 - Ellekit - RootHide's Repo
