@@ -3,113 +3,113 @@
 ## Tweaks
 | Name | Repository |
 | --- | --- |
-| 3DAppVersionSpoofer | RootHide's Repo |
-| AdvancedBrightnessSlider | Havoc |
-| Always120 | Havoc |
-| Ambre | PoomSmart's Repo |
-| App Hider | BigBoss |
-| App Library Disabler | BigBoss |
-| AppColorClose | PoomSmart's Repo |
-| AppData | RootHide's Repo |
-| ArtFull | Havoc |
-| Atria | Chariz |
-| AutoBrightnessToggle (CCSupport) | ichitaso repository |
-| AutoUnlockX | SparkDev |
-| BackgrounderAction15 (CCSupport) | Akusio repo |
-| betterAlarm | Chariz |
-| BoldersReborn | Chariz |
-| CAHighFPS | PoomSmart's Repo |
-| Cask3 | Chariz |
-| CC On & Off | RootHide's Repo |
-| CCMusicArtwork | SparkDev |
-| CCPowerMenu | MTAC’s Repo |
-| CCSupport | RootHide’s Repo |
-| CloseAll | Havoc |
-| ColorBar15 | DTCalabro’s Repo |
-| ColorMyBattery | RootHide's Repo |
-| covertCK | CreatureCoding |
-| Cthulhu | BigBoss |
-| CustomizeCC | Havoc |
-| DLEasy | Havoc |
-| Dodo | Ginsu Tweaks |
-| DownloadBar13 | alias20 |
-| DynamicPeninsula | Limneos Repo |
-| Ellekit | RootHide's Repo |
-| Eneko | [vyolit](https://github.com/vyolit/Eneko) |
-| Everest | Havoc |
-| EZSwipe | RootHide’s Repo |
-| FakeSignalBar | alias20 |
-| FingerLock | Havoc |
-| Five Icon Dock | RootHide's Repo |
-| Gravitation | HackYouriPhone |
-| IconOrder | Havoc |
-| IconRotation | ETHN's Repo |
-| iKSettings | iKarwan |
-| iNstaKiller | iKarwan |
-| InstaLauncher 2 | Havoc |
-| Jade | Chariz |
-| KrashKop | Havoc |
-| Laetus | SparkDev |
-| LocationService (CCSupport) | ichitaso repository |
-| MoreLinesNotifications | BigBoss |
-| NewTerm 3 Beta | RootHide’s Repo |
-| NoDockGround | RootHide's Repo |
-| NoMoreDisabled | BigBoss |
-| NotRecording | RootHide’s Repo |
-| NowPlayingIconXVI | Havoc |
-| OTADisabler | ichitaso repository |
-| PanCake | AnthoPak's Repo |
-| PinAnim | Havoc |
-| PowerSelector | ichitaso repository |
-| QuickActions | Chariz |
-| RecordPause | PoomSmart’s Repo |
-| Rune | Havoc |
-| ShowTouch | RootHide's Repo |
-| Shuffle | CreatureCoding |
-| SmartBattery | Havoc |
-| Snapper 3 | Havoc |
-| SnowBoard | SparkDev |
-| Sonitus (idk if it works, if someone could test it?) | Chariz |
-| Spectrum | alias20 |
-| Speedster | Havoc |
-| StatusFolder | BigBoss |
-| Trim (saw for rootless) | iGerman |
-| Uptime | RootHide's Repo |
-| Velvet 2 | Chariz |
-| YouTubeKiller | iKarwan |
+| 3DAppVersionSpoofer | [RootHide's Repo](RootHide's Repo) |
+| AdvancedBrightnessSlider | [Havoc](Havoc) |
+| Always120 | [Havoc](Havoc) |
+| Ambre | [PoomSmart's Repo](PoomSmart's Repo) |
+| App Hider | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| App Library Disabler | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| AppColorClose | [PoomSmart's Repo](PoomSmart's Repo) |
+| AppData | [RootHide's Repo](RootHide's Repo) |
+| ArtFull | [Havoc](Havoc) |
+| Atria | [Chariz](https://repo.chariz.com/) |
+| AutoBrightnessToggle (CCSupport) | [ichitaso repository](https://ichitaso.com/apt/) |
+| AutoUnlockX | [SparkDev](SparkDev) |
+| BackgrounderAction15 (CCSupport) | [Akusio repo](Akusio repo) |
+| betterAlarm | [Chariz](https://repo.chariz.com/) |
+| BoldersReborn | [Chariz](https://repo.chariz.com/) |
+| CAHighFPS | [PoomSmart's Repo](PoomSmart's Repo) |
+| Cask3 | [Chariz](https://repo.chariz.com/) |
+| CC On & Off | [RootHide's Repo](RootHide's Repo) |
+| CCMusicArtwork | [SparkDev](SparkDev) |
+| CCPowerMenu | [MTAC’s Repo](MTAC’s Repo) |
+| CCSupport | [RootHide’s Repo](RootHide’s Repo) |
+| CloseAll | [Havoc](Havoc) |
+| ColorBar15 | [DTCalabro’s Repo](https://dtcalabro.github.io/repo/) |
+| ColorMyBattery | [RootHide's Repo](RootHide's Repo) |
+| covertCK | [CreatureCoding](https://creaturecoding.com/repo/) |
+| Cthulhu | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| CustomizeCC | [Havoc](Havoc) |
+| DLEasy | [Havoc](Havoc) |
+| Dodo | [Ginsu Tweaks](https://ginsu.dev/repo/) |
+| DownloadBar13 | [alias20](https://alias20.gitlab.io/apt/) |
+| DynamicPeninsula | [Limneos Repo](http://limneos.net/repo/) |
+| Ellekit | [RootHide's Repo](RootHide's Repo) |
+| Eneko | [[vyolit](https://github.com/vyolit/Eneko)]([vyolit](https://github.com/vyolit/Eneko)) |
+| Everest | [Havoc](Havoc) |
+| EZSwipe | [RootHide’s Repo](RootHide’s Repo) |
+| FakeSignalBar | [alias20](https://alias20.gitlab.io/apt/) |
+| FingerLock | [Havoc](Havoc) |
+| Five Icon Dock | [RootHide's Repo](RootHide's Repo) |
+| Gravitation | [HackYouriPhone](https://repo.hackyouriphone.org) |
+| IconOrder | [Havoc](Havoc) |
+| IconRotation | [ETHN's Repo](https://nahtedetihw.github.io/) |
+| iKSettings | [iKarwan](https://repo.ikghd.me/) |
+| iNstaKiller | [iKarwan](https://repo.ikghd.me/) |
+| InstaLauncher 2 | [Havoc](Havoc) |
+| Jade | [Chariz](https://repo.chariz.com/) |
+| KrashKop | [Havoc](Havoc) |
+| Laetus | [SparkDev](SparkDev) |
+| LocationService (CCSupport) | [ichitaso repository](https://ichitaso.com/apt/) |
+| MoreLinesNotifications | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| NewTerm 3 Beta | [RootHide’s Repo](RootHide’s Repo) |
+| NoDockGround | [RootHide's Repo](RootHide's Repo) |
+| NoMoreDisabled | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| NotRecording | [RootHide’s Repo](RootHide’s Repo) |
+| NowPlayingIconXVI | [Havoc](Havoc) |
+| OTADisabler | [ichitaso repository](https://ichitaso.com/apt/) |
+| PanCake | [AnthoPak's Repo](https://repo.anthopak.dev/) |
+| PinAnim | [Havoc](Havoc) |
+| PowerSelector | [ichitaso repository](https://ichitaso.com/apt/) |
+| QuickActions | [Chariz](https://repo.chariz.com/) |
+| RecordPause | [PoomSmart’s Repo](PoomSmart’s Repo) |
+| Rune | [Havoc](Havoc) |
+| ShowTouch | [RootHide's Repo](RootHide's Repo) |
+| Shuffle | [CreatureCoding](https://creaturecoding.com/repo/) |
+| SmartBattery | [Havoc](Havoc) |
+| Snapper 3 | [Havoc](Havoc) |
+| SnowBoard | [SparkDev](SparkDev) |
+| Sonitus (idk if it works, if someone could test it?) | [Chariz](https://repo.chariz.com/) |
+| Spectrum | [alias20](https://alias20.gitlab.io/apt/) |
+| Speedster | [Havoc](Havoc) |
+| StatusFolder | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| Trim (saw for rootless) | [iGerman](iGerman) |
+| Uptime | [RootHide's Repo](RootHide's Repo) |
+| Velvet 2 | [Chariz](https://repo.chariz.com/) |
+| YouTubeKiller | [iKarwan](https://repo.ikghd.me/) |
 
 ## Themes
 | Name | Repository |
 | --- | --- |
-| Ambre | JunesiPhone |
-| Felicity Pro | Havoc |
-| Junipero | Havoc |
-| Lollipop | Havoc |
-| Mi5Theme | Havoc |
-| Moxy | Havoc |
-| Viola | Havoc |
+| Ambre | [JunesiPhone](http://junesiphone.com/supersecret/) |
+| Felicity Pro | [Havoc](Havoc) |
+| Junipero | [Havoc](Havoc) |
+| Lollipop | [Havoc](Havoc) |
+| Mi5Theme | [Havoc](Havoc) |
+| Moxy | [Havoc](Havoc) |
+| Viola | [Havoc](Havoc) |
 
 ## Needs Testing
 | Name | Repository |
 | --- | --- |
-| CarBridge | Havoc |
-| Cardculator | Havoc |
-| iKeywi 4 | Havoc |
-| Lynx | Havoc |
+| CarBridge | [Havoc](Havoc) |
+| Cardculator | [Havoc](Havoc) |
+| iKeywi 4 | [Havoc](Havoc) |
+| Lynx | [Havoc](Havoc) |
 
 ## Not Working
 | Name | Repository |
 | --- | --- |
-| Aemulo | Chariz |
-| AudioRecorder XS (Limneos Repo) | Limneos Repo |
-| Color3DIcons (BigBoss) | BigBoss |
-| Dynamic Stage (Havoc) | Havoc |
-| Juice (SparkDev) | SparkDev |
-| MilkyWay4 (Akusio repo) | Akusio repo |
-| Nexus (Havoc) | Havoc |
-| Prysm | Havoc |
-| VolVibes (Havoc) | Havoc |
-| YellowPages 2 | N/A |
+| Aemulo | [Chariz](https://repo.chariz.com/) |
+| AudioRecorder XS (Limneos Repo) | [Limneos Repo](http://limneos.net/repo/) |
+| Color3DIcons (BigBoss) | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| Dynamic Stage (Havoc) | [Havoc](Havoc) |
+| Juice (SparkDev) | [SparkDev](SparkDev) |
+| MilkyWay4 (Akusio repo) | [Akusio repo](Akusio repo) |
+| Nexus (Havoc) | [Havoc](Havoc) |
+| Prysm | [Havoc](Havoc) |
+| VolVibes (Havoc) | [Havoc](Havoc) |
+| YellowPages 2 | [N/A](N/A) |
 
 ## Credits
 - [Roothide Bootstrap](https://github.com/roothide/Bootstrap)
