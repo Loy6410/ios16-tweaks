@@ -22,7 +22,7 @@
 | Cask3 | [Chariz](https://repo.chariz.com/) |
 | CC On & Off | [RootHide's Repo](https://roothide.github.io) |
 | CCMusicArtwork | [SparkDev](SparkDev) |
-| CCPowerMenu | [MTAC’s Repo](MTAC’s Repo) |
+| CCPowerMenu | [MTAC’s Repo](https://mtac.app/repo/) |
 | CCSupport | [RootHide’s Repo](RootHide’s Repo) |
 | CloseAll | [Havoc](Havoc) |
 | ColorBar15 | [DTCalabro’s Repo](https://dtcalabro.github.io/repo/) |
