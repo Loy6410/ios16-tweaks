@@ -1,8 +1,8 @@
 # iOS 16 tweaks
-A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
+A continuously updated list of working iOS 16 semi-jailbreak springboard tweaks (roothide bootstrap + Serotonin)
 
-**YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK**
-# Repos links
+**YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK OR DON't WORK**
+# Repos URLs
 - https://alias20.gitlab.io/apt/ - alias20
 - https://repo.anthopak.dev/ - AnthoPak's Repo
 - https://apt.thebigboss.org/reprofiles/cydia/ -BigBoss
@@ -37,6 +37,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Cask3 - Chariz
 - CC On & Off - RootHide's Repo
 - CCMusicArtwork - SparkDev
+- CCPowerMenu - MTAC’s Repo
 - CCSupport - RootHide’s Repo
 - CloseAll - Havoc
 - ColorBar15 - DTCalabro’s Repo
@@ -58,13 +59,18 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Gravitation -
 - IconOrder - Havoc
 - IconRotation - ETHN's Repo
+- iKSettings - iKarwan
+- iNstaKiller - iKarwan
 - InstaLauncher 2 - Havoc
 - Jade - Chariz
+- KrashKop - Havoc
+- Laetus - SparkDev
 - LocationService (CCSupport) - ichitaso repository
 - MoreLinesNotifications - BigBoss
 - NewTerm 3 Beta - RootHide’s Repo
 - NoDockGround - RootHide’s Repo
 - NoMoreDisabled - BigBoss
+- NotRecording - RootHide’s Repo
 - NowPlayingIconXVI - Havoc
 - OTADisabler - ichitaso repository
 - PanCake - AnthoPak's Repo
@@ -76,23 +82,32 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - ShowTouch - RootHide's Repo
 - Shuffle - CreatureCoding
 - SmartBattery - Havoc
-- Snapper3 - Havoc
+- Snapper 3 - Havoc
 - SnowBoard - SparkDev
 - Sonitus (idk if it works, if someone could test it?) - Chariz
 - Spectrum - alias20
+- Speedster - Havoc
 - StatusFolder - BigBoss
 - Trim (saw for rootless) - iGerman
 - Uptime - RootHide's Repo
 - Velvet 2 - Chariz
+- YouTubeKiller - iKarwan
 # Themes
 - Ambre - JunesiPhone
 - Felicity Pro - Havoc
+- Junipero - Havoc
 - Lollipop - Havoc
 - Mi5Theme - Havoc
 - Moxy - Havoc
 - Viola - Havoc
+# Need someon to test:
+- CarBridge - Havoc
+- Cardculator - Havoc
+- iKeywi 4 - Havoc
+- Lynx - Havoc
 # Tweaks not working currently
 - Aemulo (Chariz) - no tweak injection support for NFCD
+- AudioRecorder XS (Limneos Repo) - doesn’t record
 - Color3DIcons (BigBoss) - sends you to springboard when trying to open colored 3D touch holding app
 - Dynamic Stage (Havoc) - after installing and respring it freezes the restarts the device
 - Juice (SparkDev) - it seems that after you link your patreon account, the licence doesnt take effect
@@ -100,6 +115,7 @@ A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bo
 - Nexus (Havoc) - sends you to safe mode
 - Prysm - sends you to safe mode
 - VolVibes (Havoc) - doesn't work and crashes settings when trying to open its preferences
+- YellowPages 2 - not activating with trueCaller
 # Credits
 - Roothide Bootstrap - [roothidedev](https://github.com/roothide/Bootstrap)
 - Serotonin semi-jailbreak - [mineek and htrowii](https://github.com/mineek/Serotonin)
