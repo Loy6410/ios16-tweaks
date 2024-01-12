@@ -108,15 +108,15 @@
 | Name | Repository | Issue |
 | --- | --- | --- |
 | Aemulo | [Chariz](https://repo.chariz.com/) | No tweak injection support for NFCD. |
-| AudioRecorder XS (Limneos Repo) | [Limneos Repo](http://limneos.net/repo/) | Doesn't record. |
+| AudioRecorder XS | [Limneos Repo](http://limneos.net/repo/) | Doesn't record. |
 | Axon | [Merona Repo](https://repo.co.kr) | Sends you to safe mode when clicking on notifications. |
-| Color3DIcons (BigBoss) | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) | Sends you to springboard when trying to open colored 3D touch holding app. |
-| Dynamic Stage (Havoc) | [Havoc](https://havoc.app) | After installing and respring it freezes and restarts the device. |
-| Juice (SparkDev) | [SparkDev](https://sparkdev.me) | It seems that after you link your Patreon account, the license doesn't take effect. |
-| MilkyWay4 (Akusio repo) | [Akusio repo](https://akusio.github.io) | There's no option 3D touch menu to open the app as a window. |
-| Nexus (Havoc) | [Havoc](https://havoc.app) | Sends you to safe mode. |
+| Color3DIcons | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) | Sends you to springboard when trying to open colored 3D touch holding app. |
+| Dynamic Stage | [Havoc](https://havoc.app) | After installing and respring it freezes and restarts the device. |
+| Juice | [SparkDev](https://sparkdev.me) | It seems that after you link your Patreon account, the license doesn't take effect. |
+| MilkyWay4 | [Akusio repo](https://akusio.github.io) | There's no option 3D touch menu to open the app as a window. |
+| Nexus | [Havoc](https://havoc.app) | Sends you to safe mode. |
 | Prysm | [Havoc](https://havoc.app) | Sends you to safe mode. |
-| VolVibes (Havoc) | [Havoc](https://havoc.app) | Doesn't work and crashes settings when trying to open its preferences. |
+| VolVibes | [Havoc](https://havoc.app) | Doesn't work and crashes settings when trying to open its preferences. |
 | YellowPages 2 | [MiRO's Repo](https://miro92.com/repo/) | Not activating with trueCaller. |
 | Zetsu Rootless | [Dcsyhi Repo](https://dcsyhi1998.github.io) | Sends you to safe mode when opening an app. |
 
