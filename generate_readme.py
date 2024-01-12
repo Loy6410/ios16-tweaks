@@ -9,10 +9,12 @@ def sort_entries_by_name(entries):
     return sorted(entries, key=lambda x: x['name'].lower())
 
 def generate_markdown_table(entries, repos, category):
-    table = "| Name | Repository |"
-    table += " Issue |" if category == "not_working" else "\n"
-    table += "| --- | --- |"
-    table += " --- |" if category == "not_working" else "\n"
+    headers = "| Name | Repository |"
+    headers += " Issue |" if category == "not_working" else ""
+    header_separator = "| --- | --- |"
+    header_separator += " --- |" if category == "not_working" else ""
+
+    table = headers + "\n" + header_separator + "\n"
     markdown_link_pattern = re.compile(r'\[.+\]\(.+\)')
 
     for entry in entries:
@@ -22,11 +24,10 @@ def generate_markdown_table(entries, repos, category):
         else:
             repo_url = next((repo['url'] for repo in repos if repo['name'] == repo_name), None)
             repo_markdown = f"[{repo_name}]({repo_url})" if repo_url else repo_name
-        if category == "not_working":
-            issue_description = entry.get('issue', 'N/A')
-            table += f"| {entry['name']} | {repo_markdown} | {issue_description} |\n"
-        else:
-            table += f"| {entry['name']} | {repo_markdown} |\n"
+        
+        row = f"| {entry['name']} | {repo_markdown} |"
+        row += f" {entry.get('issue', 'N/A')} |" if category == "not_working" else ""
+        table += row + "\n"
     return table
 
 def main():
