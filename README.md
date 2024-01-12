@@ -55,7 +55,7 @@
 | KrashKop | [Havoc](https://havoc.app) |
 | Laetus | [SparkDev](https://sparkdev.me) |
 | LocationService (CCSupport) | [ichitaso repository](https://ichitaso.com/apt/) |
-| Lynx | [Havoc](https://havoc.app) |
+| Lynx 2 | [Havoc](https://havoc.app) |
 | MoreLinesNotifications | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | NewTerm 3 Beta | [RootHide's Repo](https://roothide.github.io) |
 | NoDockGround | [RootHide's Repo](https://roothide.github.io) |
