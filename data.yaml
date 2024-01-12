@@ -29,6 +29,8 @@ repos:
     name: "MTAC’s Repo"
   - url: "https://repo.hackyouriphone.org"
     name: "HackYouriPhone"
+  - url: "https://havoc.app"
+    name: "Havoc"
   - url: "https://poomsmart.github.io/repo/"
     name: "PoomSmart's Repo"
   - url: "https://roothide.github.io"
