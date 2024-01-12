@@ -15,7 +15,7 @@
 | Atria | [Chariz](https://repo.chariz.com/) |
 | AutoBrightnessToggle (CCSupport) | [ichitaso repository](https://ichitaso.com/apt/) |
 | AutoUnlockX | [SparkDev](SparkDev) |
-| BackgrounderAction15 (CCSupport) | [Akusio repo](Akusio repo) |
+| BackgrounderAction15 (CCSupport) | [Akusio repo](https://akusio.github.io) |
 | betterAlarm | [Chariz](https://repo.chariz.com/) |
 | BoldersReborn | [Chariz](https://repo.chariz.com/) |
 | CAHighFPS | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
@@ -105,7 +105,7 @@
 | Color3DIcons (BigBoss) | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | Dynamic Stage (Havoc) | [Havoc](Havoc) |
 | Juice (SparkDev) | [SparkDev](SparkDev) |
-| MilkyWay4 (Akusio repo) | [Akusio repo](Akusio repo) |
+| MilkyWay4 (Akusio repo) | [Akusio repo](https://akusio.github.io) |
 | Nexus (Havoc) | [Havoc](Havoc) |
 | Prysm | [Havoc](Havoc) |
 | VolVibes (Havoc) | [Havoc](Havoc) |
