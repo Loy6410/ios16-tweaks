@@ -1,4 +1,5 @@
 import yaml
+import re
 
 def load_yaml(file_path):
     with open(file_path, 'r') as file:
@@ -9,10 +10,16 @@ def sort_entries_by_name(entries):
 
 def generate_markdown_table(entries, repos):
     table = "| Name | Repository |\n| --- | --- |\n"
+    markdown_link_pattern = re.compile(r'\[.+\]\(.+\)')
+
     for entry in entries:
         repo_name = entry.get('repo', 'N/A')
-        repo_url = next((repo['url'] for repo in repos if repo['name'] == repo_name), repo_name)
-        table += f"| {entry['name']} | [{repo_name}]({repo_url}) |\n"
+        if markdown_link_pattern.match(repo_name):
+            repo_markdown = repo_name
+        else:
+            repo_url = next((repo['url'] for repo in repos if repo['name'] == repo_name), None)
+            repo_markdown = f"[{repo_name}]({repo_url})" if repo_url else repo_name
+        table += f"| {entry['name']} | {repo_markdown} |\n"
     return table
 
 def main():
