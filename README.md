@@ -16,6 +16,8 @@
 | AutoBrightnessToggle (CCSupport) | [ichitaso repository](https://ichitaso.com/apt/) |
 | AutoUnlockX | [SparkDev](https://sparkdev.me) |
 | BackgrounderAction15 (CCSupport) | [Akusio repo](https://akusio.github.io) |
+| Badger | [Havoc](https://havoc.app) |
+| BatteryBuddy | [vyolit](https://github.com/vyolit/BatteryBuddy) |
 | betterAlarm | [Chariz](https://repo.chariz.com/) |
 | BoldersReborn | [Chariz](https://repo.chariz.com/) |
 | CAHighFPS | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
@@ -31,6 +33,7 @@
 | covertCK | [CreatureCoding](https://creaturecoding.com/repo/) |
 | Cthulhu | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | CustomizeCC | [Havoc](https://havoc.app) |
+| Designer | [JunesiPhone](http://junesiphone.com/supersecret/) |
 | DLEasy | [Havoc](https://havoc.app) |
 | Dodo | [Ginsu Tweaks](https://ginsu.dev/repo/) |
 | DownloadBar13 | [alias20](https://alias20.gitlab.io/apt/) |
@@ -57,6 +60,7 @@
 | NewTerm 3 Beta | [RootHide's Repo](https://roothide.github.io) |
 | NoDockGround | [RootHide's Repo](https://roothide.github.io) |
 | NoMoreDisabled | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| NotiCopy15 | [iCraze's Repo](https://repo.icrazeios.com) |
 | NotRecording | [RootHide's Repo](https://roothide.github.io) |
 | NowPlayingIconXVI | [Havoc](https://havoc.app) |
 | OTADisabler | [ichitaso repository](https://ichitaso.com/apt/) |
@@ -68,16 +72,19 @@
 | Rune | [Havoc](https://havoc.app) |
 | ShowTouch | [RootHide's Repo](https://roothide.github.io) |
 | Shuffle | [CreatureCoding](https://creaturecoding.com/repo/) |
-| SmartBattery | [Havoc](https://havoc.app) |
+| SmartBattery iOS 15-16 | [Havoc](https://havoc.app) |
+| SmartNetwork iOS 15-16 | [Havoc](https://havoc.app) |
 | Snapper 3 | [Havoc](https://havoc.app) |
 | SnowBoard | [SparkDev](https://sparkdev.me) |
 | Sonitus (idk if it works, if someone could test it?) | [Chariz](https://repo.chariz.com/) |
 | Spectrum | [alias20](https://alias20.gitlab.io/apt/) |
 | Speedster | [Havoc](https://havoc.app) |
 | StatusFolder | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| Stella | [Havoc](https://havoc.app) |
 | Trim (saw for rootless) | [iGerman](https://repo.igerman.cc) |
 | Uptime | [RootHide's Repo](https://roothide.github.io) |
 | Velvet 2 | [Chariz](https://repo.chariz.com/) |
+| WifiQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YouTubeKiller | [iKarwan](https://repo.ikghd.me/) |
 
 ## Themes
