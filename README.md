@@ -109,7 +109,7 @@
 | Nexus (Havoc) | [Havoc](https://havoc.app) |
 | Prysm | [Havoc](https://havoc.app) |
 | VolVibes (Havoc) | [Havoc](https://havoc.app) |
-| YellowPages 2 | [N/A](N/A) |
+| YellowPages 2 | [MiRO's Repo](https://miro92.com/repo/) |
 
 ## Credits
 - [Roothide Bootstrap](https://github.com/roothide/Bootstrap)
