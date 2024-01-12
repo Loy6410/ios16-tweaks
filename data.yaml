@@ -37,6 +37,8 @@ repos:
     name: "RootHide's Repo"
   - url: "https://repo.igerman.cc"
     name: "iGerman
+  - url: "https://sparkdev.me"
+    name: "SparkDev"
 
 tweaks:
   - name: "3DAppVersionSpoofer"
