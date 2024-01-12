@@ -192,6 +192,10 @@ tweaks:
     repo: "Chariz"
   - name: "YouTubeKiller"
     repo: "iKarwan"
+  - name: "Lynx"
+    repo: "Havoc"
+  - name: "Cardculator"
+    repo: "Havoc"
 
 themes:
   - name: "Ambre"
@@ -212,11 +216,7 @@ themes:
 needs_testing:
   - name: "CarBridge"
     repo: "Havoc"
-  - name: "Cardculator"
-    repo: "Havoc"
   - name: "iKeywi 4"
-    repo: "Havoc"
-  - name: "Lynx"
     repo: "Havoc"
 
 not_working:
