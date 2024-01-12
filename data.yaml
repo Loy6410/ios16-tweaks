@@ -3,6 +3,8 @@ repos:
     name: "alias20"
   - url: "https://repo.anthopak.dev/"
     name: "AnthoPak's Repo"
+  - url: "https://akusio.github.io"
+    name: "Akusio repo"
   - url: "https://apt.thebigboss.org/reprofiles/cydia/"
     name: "BigBoss"
   - url: "https://repo.chariz.com/"
