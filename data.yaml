@@ -25,6 +25,10 @@ repos:
     name: "Limneos Repo"
   - url: "https://repo.hackyouriphone.org"
     name: "HackYouriPhone"
+  - url: "https://poomsmart.github.io/repo/"
+    name: "PoomSmart's Repo"
+  - url: "https://roothide.github.io"
+    name: "RootHide's Repo"
 
 tweaks:
   - name: "3DAppVersionSpoofer"
