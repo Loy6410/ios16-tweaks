@@ -19,6 +19,7 @@
 | betterAlarm | [Chariz](https://repo.chariz.com/) |
 | BoldersReborn | [Chariz](https://repo.chariz.com/) |
 | CAHighFPS | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
+| Cardculator | [Havoc](https://havoc.app) |
 | Cask3 | [Chariz](https://repo.chariz.com/) |
 | CC On & Off | [RootHide's Repo](https://roothide.github.io) |
 | CCMusicArtwork | [SparkDev](https://sparkdev.me) |
@@ -51,6 +52,7 @@
 | KrashKop | [Havoc](https://havoc.app) |
 | Laetus | [SparkDev](https://sparkdev.me) |
 | LocationService (CCSupport) | [ichitaso repository](https://ichitaso.com/apt/) |
+| Lynx | [Havoc](https://havoc.app) |
 | MoreLinesNotifications | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | NewTerm 3 Beta | [RootHide's Repo](https://roothide.github.io) |
 | NoDockGround | [RootHide's Repo](https://roothide.github.io) |
@@ -93,9 +95,7 @@
 | Name | Repository |
 | --- | --- |
 | CarBridge | [Havoc](https://havoc.app) |
-| Cardculator | [Havoc](https://havoc.app) |
 | iKeywi 4 | [Havoc](https://havoc.app) |
-| Lynx | [Havoc](https://havoc.app) |
 
 ## Not Working
 | Name | Repository |
