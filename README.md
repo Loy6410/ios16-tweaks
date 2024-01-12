@@ -2,6 +2,19 @@
 A continuously updated list of working iOS 16 semi-jailbreak tweaks (roothide bootstrap + Serotonin)
 
 **YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK**
+# Repos links
+- https://alias20.gitlab.io/apt/ - alias20
+- https://repo.anthopak.dev/ - AnthoPak's Repo
+- https://apt.thebigboss.org/reprofiles/cydia/ -BigBoss
+- https://repo.chariz.com/ - Chariz
+- https://creaturecoding.com/repo/ - CreatureCoding
+- https://dtcalabro.github.io/repo/ - DTCalabro’s Repo
+- https://nahtedetihw.github.io/ - ETHN's Repo
+- https://ginsu.dev/repo/ - Ginsu Tweaks
+- https://ichitaso.com/apt/ - ichitaso repository
+- https://repo.ikghd.me/ - iKarwan
+- http://junesiphone.com/supersecret/ - JunesiPhone
+- http://limneos.net/repo/ - Limneos Repo
 # Tweaks
 (This list will be enhanced with tabs and repos)
 - 3DAppVersionSpoofer - RootHide's Repo
