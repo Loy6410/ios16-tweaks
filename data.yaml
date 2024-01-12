@@ -41,6 +41,8 @@ repos:
     name: "SparkDev"
   - url: "https://miro92.com/repo/"
     name: "MiRO's Repo"
+  - url: "https://repo.icrazeios.com"
+    name: "iCraze's Repo"
 
 tweaks:
   - name: "3DAppVersionSpoofer"
@@ -170,8 +172,6 @@ tweaks:
     repo: "RootHide's Repo"
   - name: "Shuffle"
     repo: "CreatureCoding"
-  - name: "SmartBattery"
-    repo: "Havoc"
   - name: "Snapper 3"
     repo: "Havoc"
   - name: "SnowBoard"
@@ -196,6 +196,22 @@ tweaks:
     repo: "Havoc"
   - name: "Cardculator"
     repo: "Havoc"
+  - name: "Designer"
+    repo: "JunesiPhone"
+  - name: "SmartBattery iOS 15-16
+    repo: "Havoc"
+  - name: "SmartNetwork iOS 15-16"
+    repo: "Havoc"
+  - name: "WifiQR"
+    repo: "BigBoss"
+  - name: "Badger"
+    repo: "Havoc"
+  - name: "NotiCopy15"
+    repo: "iCraze's Repo"
+  - name: "Stella"
+    repo: "Havoc"
+  - name: "BatteryBuddy"
+    repo: "[vyolit](https://github.com/vyolit/BatteryBuddy)"
 
 themes:
   - name: "Ambre"
