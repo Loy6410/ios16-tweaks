@@ -25,6 +25,8 @@ repos:
     name: "JunesiPhone"
   - url: "http://limneos.net/repo/"
     name: "Limneos Repo"
+  - url: "https://mtac.app/repo/"
+    name: "MTAC’s Repo"
   - url: "https://repo.hackyouriphone.org"
     name: "HackYouriPhone"
   - url: "https://poomsmart.github.io/repo/"
