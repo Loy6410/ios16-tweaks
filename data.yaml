@@ -35,6 +35,8 @@ repos:
     name: "PoomSmart's Repo"
   - url: "https://roothide.github.io"
     name: "RootHide's Repo"
+  - url: "https://repo.igerman.cc"
+    name: "iGerman
 
 tweaks:
   - name: "3DAppVersionSpoofer"
