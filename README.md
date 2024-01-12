@@ -3,18 +3,18 @@ A continuously updated list of working iOS 16 semi-jailbreak springboard tweaks 
 
 **YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK OR DON't WORK**
 # Repos URLs
-- https://alias20.gitlab.io/apt/ - alias20
-- https://repo.anthopak.dev/ - AnthoPak's Repo
-- https://apt.thebigboss.org/reprofiles/cydia/ -BigBoss
-- https://repo.chariz.com/ - Chariz
-- https://creaturecoding.com/repo/ - CreatureCoding
-- https://dtcalabro.github.io/repo/ - DTCalabro’s Repo
-- https://nahtedetihw.github.io/ - ETHN's Repo
-- https://ginsu.dev/repo/ - Ginsu Tweaks
-- https://ichitaso.com/apt/ - ichitaso repository
-- https://repo.ikghd.me/ - iKarwan
-- http://junesiphone.com/supersecret/ - JunesiPhone
-- http://limneos.net/repo/ - Limneos Repo
+- alias20: https://alias20.gitlab.io/apt/
+- AnthoPak's Repo: https://repo.anthopak.dev/
+- BigBoss: https://apt.thebigboss.org/reprofiles/cydia/
+- Chariz: https://repo.chariz.com/
+- CreatureCoding: https://creaturecoding.com/repo/
+- DTCalabro’s Repo: https://dtcalabro.github.io/repo/
+- ETHN's Repo: https://nahtedetihw.github.io/
+- Ginsu Tweaks: https://ginsu.dev/repo/
+- ichitaso repository: https://ichitaso.com/apt/
+- iKarwan: https://repo.ikghd.me/
+- JunesiPhone: http://junesiphone.com/supersecret/
+- Limneos Repo: http://limneos.net/repo/
 # Tweaks
 (This list will be enhanced with tabs and repos)
 - 3DAppVersionSpoofer - RootHide's Repo
