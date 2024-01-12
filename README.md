@@ -98,18 +98,16 @@
 | iKeywi 4 | [Havoc](https://havoc.app) |
 
 ## Not Working
-| Name | Repository |
-| --- | --- |
-| Aemulo | [Chariz](https://repo.chariz.com/) |
-| AudioRecorder XS (Limneos Repo) | [Limneos Repo](http://limneos.net/repo/) |
-| Color3DIcons (BigBoss) | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
-| Dynamic Stage (Havoc) | [Havoc](https://havoc.app) |
-| Juice (SparkDev) | [SparkDev](https://sparkdev.me) |
-| MilkyWay4 (Akusio repo) | [Akusio repo](https://akusio.github.io) |
-| Nexus (Havoc) | [Havoc](https://havoc.app) |
-| Prysm | [Havoc](https://havoc.app) |
-| VolVibes (Havoc) | [Havoc](https://havoc.app) |
-| YellowPages 2 | [MiRO's Repo](https://miro92.com/repo/) |
+| Name | Repository | Issue || --- | --- | --- || Aemulo | [Chariz](https://repo.chariz.com/) | No tweak injection support for NFCD. |
+| AudioRecorder XS (Limneos Repo) | [Limneos Repo](http://limneos.net/repo/) | Doesn't record. |
+| Color3DIcons (BigBoss) | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) | Sends you to springboard when trying to open colored 3D touch holding app. |
+| Dynamic Stage (Havoc) | [Havoc](https://havoc.app) | After installing and respring it freezes the restarts the device. |
+| Juice (SparkDev) | [SparkDev](https://sparkdev.me) | It seems that after you link your patreon account, the licence doesnt take effect. |
+| MilkyWay4 (Akusio repo) | [Akusio repo](https://akusio.github.io) | Theres no option 3D touch menu to open the app as a window. |
+| Nexus (Havoc) | [Havoc](https://havoc.app) | Sends you to safe mode. |
+| Prysm | [Havoc](https://havoc.app) | Sends you to safe mode. |
+| VolVibes (Havoc) | [Havoc](https://havoc.app) | Doesn't work and crashes settings when trying to open its preferences. |
+| YellowPages 2 | [MiRO's Repo](https://miro92.com/repo/) | Not activating with trueCaller. |
 
 ## Credits
 - [Roothide Bootstrap](https://github.com/roothide/Bootstrap)
