@@ -35,7 +35,7 @@
 | DownloadBar13 | [alias20](https://alias20.gitlab.io/apt/) |
 | DynamicPeninsula | [Limneos Repo](http://limneos.net/repo/) |
 | Ellekit | [RootHide's Repo](https://roothide.github.io) |
-| Eneko | [[vyolit](https://github.com/vyolit/Eneko)]([vyolit](https://github.com/vyolit/Eneko)) |
+| Eneko | [vyolit](https://github.com/vyolit/Eneko) |
 | Everest | [Havoc](https://havoc.app) |
 | EZSwipe | [RootHide's Repo](https://roothide.github.io) |
 | FakeSignalBar | [alias20](https://alias20.gitlab.io/apt/) |
