@@ -39,6 +39,8 @@ repos:
     name: "iGerman"
   - url: "https://sparkdev.me"
     name: "SparkDev"
+  - url: "https://miro92.com/repo/"
+    name: "MiRO's Repo"
 
 tweaks:
   - name: "3DAppVersionSpoofer"
@@ -246,6 +248,7 @@ not_working:
     repo: "Havoc"
     issue: "doesn't work and crashes settings when trying to open its preferences"
   - name: "YellowPages 2"
+    repo: "MiRO's Repo"
     issue: "not activating with trueCaller"
 
 credits:
