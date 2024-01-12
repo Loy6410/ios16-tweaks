@@ -43,6 +43,10 @@ repos:
     name: "MiRO's Repo"
   - url: "https://repo.icrazeios.com"
     name: "iCraze's Repo"
+  - url: "https://dcsyhi1998.github.io"
+    name: "Dcsyhi Repo"
+  - url: "https://repo.co.kr"
+    name: "Merona Repo"
 
 tweaks:
   - name: "3DAppVersionSpoofer"
@@ -266,6 +270,12 @@ not_working:
   - name: "YellowPages 2"
     repo: "MiRO's Repo"
     issue: "Not activating with trueCaller."
+  - name: "Zetsu Rootless"
+    repo: "Dcsyhi Repo"
+    issue: "Sends you to safe mode when opening an app."
+  - name: "Axon"
+    repo: "Merona Repo"
+    issue: "Sends you to safe mode when clicking on notifications."
 
 credits:
   - name: "Roothide Bootstrap"
