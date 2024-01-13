@@ -12,26 +12,23 @@ def generate_markdown_list(entries, category_name):
     list_content = f"## {category_name}\n\n"
     sorted_entries = sort_entries_by_name(entries)
     for entry in sorted_entries:
-        list_content += f"- {entry['name']}: [{entry['url']}]({entry['url']})\n"
+        list_content += f"- [{entry['name']}]({entry['url']})\n"
     return list_content
 
-def generate_markdown_table(entries, repos, category):
+def generate_markdown_table(entries, category):
     table = "| Name | Repository |"
-    table += " Issue |" if category == "not_working" else "\n"
+    table += " Issue |\n" if category == "not_working" else "\n"
     table += "| --- | --- |"
-    table += " --- |" if category == "not_working" else "\n"
-    markdown_link_pattern = re.compile(r'\[.+\]\(.+\)')
-
-    for entry in entries:
-        repo_name = entry.get('repo', 'N/A')
-        if markdown_link_pattern.match(repo_name):
-            repo_markdown = repo_name
+    table += " --- |\n" if category == "not_working" else "\n"
+    
+    sorted_entries = sort_entries_by_name(entries)
+    for entry in sorted_entries:
+        repo_markdown = entry.get('repo', 'N/A')
+        if category == "not_working":
+            issue_description = entry.get('issue', 'N/A')
+            table += f"| {entry['name']} | {repo_markdown} | {issue_description} |\n"
         else:
-            repo_url = next((repo['url'] for repo in repos if repo['name'] == repo_name), None)
-            repo_markdown = f"[{repo_name}]({repo_url})" if repo_url else repo_name
-        row = f"| {entry['name']} | {repo_markdown} |"
-        row += f" {entry.get('issue', 'N/A')} |" if category == "not_working" else ""
-        table += row + "\n"
+            table += f"| {entry['name']} | {repo_markdown} |\n"
     return table
 
 def main():
@@ -44,8 +41,7 @@ def main():
 
     for category in ['tweaks', 'themes', 'needs_testing', 'not_working']:
         markdown_content += f"## {category.title().replace('_', ' ')}\n"
-        sorted_entries = sort_entries_by_name(data.get(category, []))
-        markdown_content += generate_markdown_table(sorted_entries, repos, category) + "\n"
+        markdown_content += generate_markdown_table(data.get(category, []), category) + "\n"
 
     markdown_content += "## Credits\n"
     for credit in data.get('credits', []):
