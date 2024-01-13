@@ -18,7 +18,7 @@ def generate_markdown_list(entries, category_name):
 def generate_markdown_table(entries, repos, category):
     table = "| Name | Repository |"
     table += " Issue |" if category == "not_working" else "\n"
-    table += "| --- | --- |"
+    table += "\n| --- | --- |"
     table += " --- |" if category == "not_working" else "\n"
     
     markdown_link_pattern = re.compile(r'\[.+\]\(.+\)')
@@ -28,8 +28,8 @@ def generate_markdown_table(entries, repos, category):
         if markdown_link_pattern.match(repo_name):
             repo_markdown = repo_name
         else:
-            repo_url = next((repo['url'] for repo in repos if repo['name'] == repo_name), None)
-            repo_markdown = f"[{repo_name}]({repo_url})" if repo_url else repo_name
+            repo_url = next((repo['url'] for repo in repos if repo['name'] == repo_name), repo_name)
+            repo_markdown = f"[{repo_name}]({repo_url})" if repo_url != repo_name else repo_name
         
         if category == "not_working":
             issue_description = entry.get('issue', 'N/A')
