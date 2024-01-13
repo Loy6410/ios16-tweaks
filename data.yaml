@@ -216,6 +216,10 @@ tweaks:
     repo: "Havoc"
   - name: "BatteryBuddy"
     repo: "[vyolit](https://github.com/vyolit/BatteryBuddy)"
+  - name: "Alpine"
+    repo: "Havoc"
+  - name: "TweakSettings"
+    repo: "CreatureCoding"
 
 themes:
   - name: "Ambre"
@@ -231,6 +235,8 @@ themes:
   - name: "Moxy"
     repo: "Havoc"
   - name: "Viola"
+    repo: "Havoc"
+  - name: "Elysian"
     repo: "Havoc"
 
 needs_testing:
