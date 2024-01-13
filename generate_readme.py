@@ -8,13 +8,17 @@ def load_yaml(file_path):
 def sort_entries_by_name(entries):
     return sorted(entries, key=lambda x: x['name'].lower())
 
-def generate_markdown_table(entries, repos, category):
-    headers = "| Name | Repository |"
-    headers += " Issue |" if category == "not_working" else ""
-    header_separator = "| --- | --- |"
-    header_separator += " --- |" if category == "not_working" else ""
+def generate_markdown_list(entries, category_name):
+    list_content = f"## {category_name}\n\n"
+    for entry in entries:
+        list_content += f"- {entry['name']}: [{entry['url']}]({entry['url']})\n"
+    return list_content
 
-    table = headers + "\n" + header_separator + "\n"
+def generate_markdown_table(entries, repos, category):
+    table = "| Name | Repository |"
+    table += " Issue |" if category == "not_working" else "\n"
+    table += "| --- | --- |"
+    table += " --- |" if category == "not_working" else "\n"
     markdown_link_pattern = re.compile(r'\[.+\]\(.+\)')
 
     for entry in entries:
@@ -24,7 +28,6 @@ def generate_markdown_table(entries, repos, category):
         else:
             repo_url = next((repo['url'] for repo in repos if repo['name'] == repo_name), None)
             repo_markdown = f"[{repo_name}]({repo_url})" if repo_url else repo_name
-        
         row = f"| {entry['name']} | {repo_markdown} |"
         row += f" {entry.get('issue', 'N/A')} |" if category == "not_working" else ""
         table += row + "\n"
@@ -33,8 +36,10 @@ def generate_markdown_table(entries, repos, category):
 def main():
     data = load_yaml('data.yaml')
 
-    repos = data.get('repos', [])
     markdown_content = "# iOS 16 Compatible Semi-Jailbreak Tweaks\n\n"
+    
+    repos = data.get('repos', [])
+    markdown_content += generate_markdown_list(repos, "Repos URLs")
 
     for category in ['tweaks', 'themes', 'needs_testing', 'not_working']:
         markdown_content += f"## {category.title().replace('_', ' ')}\n"
