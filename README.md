@@ -28,6 +28,7 @@
 - [SparkDev](https://sparkdev.me)
 ## Tweaks
 | Name | Repository |
+
 | --- | --- |
 | 3DAppVersionSpoofer | [RootHide's Repo](https://roothide.github.io) |
 | AdvancedBrightnessSlider | [Havoc](https://havoc.app) |
@@ -117,6 +118,7 @@
 
 ## Themes
 | Name | Repository |
+
 | --- | --- |
 | Ambre | [JunesiPhone](http://junesiphone.com/supersecret/) |
 | Elysian | [Havoc](https://havoc.app) |
@@ -129,12 +131,14 @@
 
 ## Needs Testing
 | Name | Repository |
+
 | --- | --- |
 | CarBridge | [Havoc](https://havoc.app) |
 | iKeywi 4 | [Havoc](https://havoc.app) |
 
 ## Not Working
-| Name | Repository | Issue || --- | --- | --- || Aemulo | [Chariz](https://repo.chariz.com/) | No tweak injection support for NFCD. |
+| Name | Repository | Issue |
+| --- | --- | --- || Aemulo | [Chariz](https://repo.chariz.com/) | No tweak injection support for NFCD. |
 | AudioRecorder XS | [Limneos Repo](http://limneos.net/repo/) | Doesn't record. |
 | Axon | [Merona Repo](https://repo.co.kr) | Sends you to safe mode when clicking on notifications. |
 | Color3DIcons | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) | Sends you to springboard when attempting to open colored 3D touch holding app. |
