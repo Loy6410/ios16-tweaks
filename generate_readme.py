@@ -30,11 +30,20 @@ def generate_markdown_table(entries, repos, category):
         table += row + "\n"
     return table
 
+def generate_repository_list(repos):
+    sorted_repos = sort_entries_by_name(repos)
+    markdown_list = "## Repositories\n"
+    for repo in sorted_repos:
+        markdown_list += f"- [{repo['name']}]({repo['url']})\n"
+    return markdown_list
+
 def main():
     data = load_yaml('data.yaml')
 
     repos = data.get('repos', [])
     markdown_content = "# iOS 16 Compatible Semi-Jailbreak Tweaks\n\n"
+
+    markdown_content += generate_repository_list(repos) + "\n"
 
     for category in ['tweaks', 'themes', 'needs_testing', 'not_working']:
         markdown_content += f"## {category.title().replace('_', ' ')}\n"
@@ -47,6 +56,9 @@ def main():
 
     with open('README.md', 'w') as file:
         file.write(markdown_content)
+
+if __name__ == "__main__":
+    main()
 
 if __name__ == "__main__":
     main()
