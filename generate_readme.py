@@ -17,9 +17,9 @@ def generate_markdown_list(entries, category_name):
 
 def generate_markdown_table(entries, repos, category):
     table = "| Name | Repository |"
-    table += " Issue |" if category == "not_working" else "\n"
-    table += "\n| --- | --- |"
-    table += " --- |" if category == "not_working" else "\n"
+    table += " Issue |" if category == "not_working" else " |\n"
+    table += "| --- | --- |"
+    table += " --- |\n" if category == "not_working" else "\n"
     
     markdown_link_pattern = re.compile(r'\[.+\]\(.+\)')
     
@@ -49,7 +49,10 @@ def main():
 
     for category in ['tweaks', 'themes', 'needs_testing', 'not_working']:
         markdown_content += f"## {category.title().replace('_', ' ')}\n"
-        markdown_content += generate_markdown_table(data.get(category, []), repos, category) + "\n"
+        if category == 'not_working':
+            markdown_content += generate_markdown_table(data.get(category, []), repos, category) + "\n"
+        else:
+            markdown_content += generate_markdown_table(data.get(category, []), repos, category)
 
     markdown_content += "## Credits\n"
     for credit in data.get('credits', []):
