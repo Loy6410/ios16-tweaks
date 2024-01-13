@@ -1,33 +1,7 @@
 # iOS 16 Compatible Semi-Jailbreak Tweaks
 
-## Repos URLs
-
-- [Akusio repo](https://akusio.github.io)
-- [alias20](https://alias20.gitlab.io/apt/)
-- [AnthoPak's Repo](https://repo.anthopak.dev/)
-- [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/)
-- [Chariz](https://repo.chariz.com/)
-- [CreatureCoding](https://creaturecoding.com/repo/)
-- [Dcsyhi Repo](https://dcsyhi1998.github.io)
-- [DTCalabro's Repo](https://dtcalabro.github.io/repo/)
-- [ETHN's Repo](https://nahtedetihw.github.io/)
-- [Ginsu Tweaks](https://ginsu.dev/repo/)
-- [HackYouriPhone](https://repo.hackyouriphone.org)
-- [Havoc](https://havoc.app)
-- [ichitaso repository](https://ichitaso.com/apt/)
-- [iCraze's Repo](https://repo.icrazeios.com)
-- [iGerman](https://repo.igerman.cc)
-- [iKarwan](https://repo.ikghd.me/)
-- [JunesiPhone](http://junesiphone.com/supersecret/)
-- [Limneos Repo](http://limneos.net/repo/)
-- [Merona Repo](https://repo.co.kr)
-- [MiRO's Repo](https://miro92.com/repo/)
-- [MTAC's Repo](https://mtac.app/repo/)
-- [PoomSmart's Repo](https://poomsmart.github.io/repo/)
-- [RootHide's Repo](https://roothide.github.io)
-- [SparkDev](https://sparkdev.me)
 ## Tweaks
-| Name | Repository | |
+| Name | Repository |
 | --- | --- |
 | 3DAppVersionSpoofer | [RootHide's Repo](https://roothide.github.io) |
 | AdvancedBrightnessSlider | [Havoc](https://havoc.app) |
@@ -114,8 +88,9 @@
 | Velvet 2 | [Chariz](https://repo.chariz.com/) |
 | WifiQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YouTubeKiller | [iKarwan](https://repo.ikghd.me/) |
+
 ## Themes
-| Name | Repository | |
+| Name | Repository |
 | --- | --- |
 | Ambre | [JunesiPhone](http://junesiphone.com/supersecret/) |
 | Elysian | [Havoc](https://havoc.app) |
@@ -125,13 +100,16 @@
 | Mi5Theme | [Havoc](https://havoc.app) |
 | Moxy | [Havoc](https://havoc.app) |
 | Viola | [Havoc](https://havoc.app) |
+
 ## Needs Testing
-| Name | Repository | |
+| Name | Repository |
 | --- | --- |
 | CarBridge | [Havoc](https://havoc.app) |
 | iKeywi 4 | [Havoc](https://havoc.app) |
+
 ## Not Working
-| Name | Repository | Issue || --- | --- | --- |
+| Name | Repository | Issue |
+| --- | --- | --- |
 | Aemulo | [Chariz](https://repo.chariz.com/) | No tweak injection support for NFCD. |
 | AudioRecorder XS | [Limneos Repo](http://limneos.net/repo/) | Doesn't record. |
 | Axon | [Merona Repo](https://repo.co.kr) | Sends you to safe mode when clicking on notifications. |
