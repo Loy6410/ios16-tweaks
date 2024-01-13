@@ -1,5 +1,31 @@
 # iOS 16 Compatible Semi-Jailbreak Tweaks
 
+## Repos URLs
+
+- alias20: [https://alias20.gitlab.io/apt/](https://alias20.gitlab.io/apt/)
+- AnthoPak's Repo: [https://repo.anthopak.dev/](https://repo.anthopak.dev/)
+- Akusio repo: [https://akusio.github.io](https://akusio.github.io)
+- BigBoss: [https://apt.thebigboss.org/reprofiles/cydia/](https://apt.thebigboss.org/reprofiles/cydia/)
+- Chariz: [https://repo.chariz.com/](https://repo.chariz.com/)
+- CreatureCoding: [https://creaturecoding.com/repo/](https://creaturecoding.com/repo/)
+- DTCalabro's Repo: [https://dtcalabro.github.io/repo/](https://dtcalabro.github.io/repo/)
+- ETHN's Repo: [https://nahtedetihw.github.io/](https://nahtedetihw.github.io/)
+- Ginsu Tweaks: [https://ginsu.dev/repo/](https://ginsu.dev/repo/)
+- ichitaso repository: [https://ichitaso.com/apt/](https://ichitaso.com/apt/)
+- iKarwan: [https://repo.ikghd.me/](https://repo.ikghd.me/)
+- JunesiPhone: [http://junesiphone.com/supersecret/](http://junesiphone.com/supersecret/)
+- Limneos Repo: [http://limneos.net/repo/](http://limneos.net/repo/)
+- MTAC's Repo: [https://mtac.app/repo/](https://mtac.app/repo/)
+- HackYouriPhone: [https://repo.hackyouriphone.org](https://repo.hackyouriphone.org)
+- Havoc: [https://havoc.app](https://havoc.app)
+- PoomSmart's Repo: [https://poomsmart.github.io/repo/](https://poomsmart.github.io/repo/)
+- RootHide's Repo: [https://roothide.github.io](https://roothide.github.io)
+- iGerman: [https://repo.igerman.cc](https://repo.igerman.cc)
+- SparkDev: [https://sparkdev.me](https://sparkdev.me)
+- MiRO's Repo: [https://miro92.com/repo/](https://miro92.com/repo/)
+- iCraze's Repo: [https://repo.icrazeios.com](https://repo.icrazeios.com)
+- Dcsyhi Repo: [https://dcsyhi1998.github.io](https://dcsyhi1998.github.io)
+- Merona Repo: [https://repo.co.kr](https://repo.co.kr)
 ## Tweaks
 | Name | Repository |
 | --- | --- |
@@ -108,18 +134,16 @@
 | iKeywi 4 | [Havoc](https://havoc.app) |
 
 ## Not Working
-| Name | Repository | Issue |
-| --- | --- | --- |
-| Aemulo | [Chariz](https://repo.chariz.com/) | No tweak injection support for NFCD. |
+| Name | Repository | Issue || --- | --- | --- || Aemulo | [Chariz](https://repo.chariz.com/) | No tweak injection support for NFCD. |
 | AudioRecorder XS | [Limneos Repo](http://limneos.net/repo/) | Doesn't record. |
 | Axon | [Merona Repo](https://repo.co.kr) | Sends you to safe mode when clicking on notifications. |
-| Color3DIcons | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) | Sends you to springboard when trying to open colored 3D touch holding app. |
+| Color3DIcons | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) | Sends you to springboard when attempting to open colored 3D touch holding app. |
 | Dynamic Stage | [Havoc](https://havoc.app) | After installing and respring it freezes and restarts the device. |
 | Juice | [SparkDev](https://sparkdev.me) | It seems that after you link your Patreon account, the license doesn't take effect. |
 | MilkyWay4 | [Akusio repo](https://akusio.github.io) | There's no option 3D touch menu to open the app as a window. |
 | Nexus | [Havoc](https://havoc.app) | Sends you to safe mode. |
 | Prysm | [Havoc](https://havoc.app) | Sends you to safe mode. |
-| VolVibes | [Havoc](https://havoc.app) | Doesn't work and crashes settings when trying to open its preferences. |
+| VolVibes | [Havoc](https://havoc.app) | Doesn't work and crashes settings when attempting to open its preferences. |
 | YellowPages 2 | [MiRO's Repo](https://miro92.com/repo/) | Not activating with trueCaller. |
 | Zetsu Rootless | [Dcsyhi Repo](https://dcsyhi1998.github.io) | Sends you to safe mode when opening an app. |
 
