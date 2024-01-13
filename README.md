@@ -5,6 +5,7 @@
 | --- | --- |
 | 3DAppVersionSpoofer | [RootHide's Repo](https://roothide.github.io) |
 | AdvancedBrightnessSlider | [Havoc](https://havoc.app) |
+| Alpine | [Havoc](https://havoc.app) |
 | Always120 | [Havoc](https://havoc.app) |
 | Ambre | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | App Hider | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
@@ -82,6 +83,7 @@
 | StatusFolder | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | Stella | [Havoc](https://havoc.app) |
 | Trim (saw for rootless) | [iGerman](https://repo.igerman.cc) |
+| TweakSettings | [CreatureCoding](https://creaturecoding.com/repo/) |
 | Uptime | [RootHide's Repo](https://roothide.github.io) |
 | Velvet 2 | [Chariz](https://repo.chariz.com/) |
 | WifiQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
@@ -91,6 +93,7 @@
 | Name | Repository |
 | --- | --- |
 | Ambre | [JunesiPhone](http://junesiphone.com/supersecret/) |
+| Elysian | [Havoc](https://havoc.app) |
 | Felicity Pro | [Havoc](https://havoc.app) |
 | Junipero | [Havoc](https://havoc.app) |
 | Lollipop | [Havoc](https://havoc.app) |
