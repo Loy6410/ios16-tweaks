@@ -10,7 +10,8 @@ def sort_entries_by_name(entries):
 
 def generate_markdown_list(entries, category_name):
     list_content = f"## {category_name}\n\n"
-    for entry in entries:
+    sorted_entries = sort_entries_by_name(entries)
+    for entry in sorted_entries:
         list_content += f"- {entry['name']}: [{entry['url']}]({entry['url']})\n"
     return list_content
 
