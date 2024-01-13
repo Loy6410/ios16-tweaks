@@ -75,9 +75,7 @@ tweaks:
     repo: "Chariz"
   - name: "BackgrounderAction15 (CCSupport)"
     repo: "Akusio repo"
-    
 # BetaAlertRemove was omitted from this list because I can't find a repository for it. Feel free to modify this if anyone reading this finds it later.
-
   - name: "betterAlarm"
     repo: "Chariz"
   - name: "BoldersReborn"
