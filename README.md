@@ -1,5 +1,31 @@
 # iOS 16 Compatible Semi-Jailbreak Tweaks
 
+## Repositories
+- [Akusio repo](https://akusio.github.io)
+- [alias20](https://alias20.gitlab.io/apt/)
+- [AnthoPak's Repo](https://repo.anthopak.dev/)
+- [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/)
+- [Chariz](https://repo.chariz.com/)
+- [CreatureCoding](https://creaturecoding.com/repo/)
+- [Dcsyhi Repo](https://dcsyhi1998.github.io)
+- [DTCalabro's Repo](https://dtcalabro.github.io/repo/)
+- [ETHN's Repo](https://nahtedetihw.github.io/)
+- [Ginsu Tweaks](https://ginsu.dev/repo/)
+- [HackYouriPhone](https://repo.hackyouriphone.org)
+- [Havoc](https://havoc.app)
+- [ichitaso repository](https://ichitaso.com/apt/)
+- [iCraze's Repo](https://repo.icrazeios.com)
+- [iGerman](https://repo.igerman.cc)
+- [iKarwan](https://repo.ikghd.me/)
+- [JunesiPhone](http://junesiphone.com/supersecret/)
+- [Limneos Repo](http://limneos.net/repo/)
+- [Merona Repo](https://repo.co.kr)
+- [MiRO's Repo](https://miro92.com/repo/)
+- [MTAC's Repo](https://mtac.app/repo/)
+- [PoomSmart's Repo](https://poomsmart.github.io/repo/)
+- [RootHide's Repo](https://roothide.github.io)
+- [SparkDev](https://sparkdev.me)
+
 ## Tweaks
 | Name | Repository |
 | --- | --- |
