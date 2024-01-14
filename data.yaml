@@ -221,6 +221,8 @@ tweaks:
     repo: "Havoc"
   - name: "TweakSettings"
     repo: "CreatureCoding"
+  - name: "Senri"
+    repo: "Chariz"
 
 themes:
   - name: "Ambre"
