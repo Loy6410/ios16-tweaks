@@ -259,7 +259,7 @@ not_working:
     issue: "Doesn't record."
   - name: "Color3DIcons"
     repo: "BigBoss"
-    issue: "Sends you to springboard when attempting to open colored 3D touch holding app."
+    issue: "Sends you to safe mode when attempting to open colored 3D touch menu."
   - name: "Dynamic Stage"
     repo: "Havoc"
     issue: "After installing and respring it freezes and restarts the device."
@@ -268,7 +268,7 @@ not_working:
     issue: "It seems that after you link your Patreon account, the license doesn't take effect."
   - name: "MilkyWay4"
     repo: "Akusio repo"
-    issue: "There's no option 3D touch menu to open the app as a window."
+    issue: "There's no option in the 3D touch menu to open the app as a window."
   - name: "Nexus"
     repo: "Havoc"
     issue: "Sends you to safe mode."
@@ -289,7 +289,7 @@ not_working:
     issue: "Sends you to safe mode when clicking on notifications."
 
 credits:
-  - name: "Roothide Bootstrap"
+  - name: "Roothide Bootstrap (by roothideDev)"
     link: "https://github.com/roothide/Bootstrap"
-  - name: "Serotonin semi-jailbreak"
+  - name: "Serotonin semi-jailbreak (by htrowii and mineek)"
     link: "https://github.com/mineek/Serotonin"
