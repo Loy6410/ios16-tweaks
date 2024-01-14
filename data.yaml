@@ -44,7 +44,7 @@ repos:
   - url: "https://repo.icrazeios.com"
     name: "iCraze's Repo"
   - url: "https://dcsyhi1998.github.io"
-    name: "Dcsyhi Repo"
+    name: "Dcsyhi1998's Repo"
   - url: "https://repo.co.kr"
     name: "Merona Repo"
 
@@ -129,6 +129,8 @@ tweaks:
     repo: "RootHide's Repo"
   - name: "Gravitation"
     repo: "HackYouriPhone"
+  - name: "HideSerialNumber"
+    repo: "ichitaso repository"
   - name: "IconOrder"
     repo: "Havoc"
   - name: "IconRotation"
@@ -181,8 +183,6 @@ tweaks:
     repo: "Havoc"
   - name: "SnowBoard"
     repo: "SparkDev"
-  - name: "Sonitus (idk if it works, if someone could test it?)"
-    repo: "Chariz"
   - name: "Spectrum"
     repo: "alias20"
   - name: "Speedster"
@@ -249,6 +249,8 @@ needs_testing:
     repo: "Havoc"
   - name: "iKeywi 4"
     repo: "Havoc"
+  - name: "Sonitus"
+    repo: "Chariz"
 
 not_working:
   - name: "Aemulo"
@@ -281,12 +283,12 @@ not_working:
   - name: "YellowPages 2"
     repo: "MiRO's Repo"
     issue: "Not activating with trueCaller."
-  - name: "Zetsu Rootless"
-    repo: "Dcsyhi Repo"
-    issue: "Sends you to safe mode when opening an app."
   - name: "Axon"
     repo: "Merona Repo"
     issue: "Sends you to safe mode when clicking on notifications."
+  - name: "Zetsu"
+    repo: "Dcsyhi1998's Repo"
+    issue: "Opening apps as windows in 3D touch menu works, but if you try to regularly open any app it causes springboard to crash."
 
 credits:
   - name: "Roothide Bootstrap (by roothideDev)"
