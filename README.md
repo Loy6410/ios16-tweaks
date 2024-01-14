@@ -10,6 +10,7 @@
 - [Dcsyhi Repo](https://dcsyhi1998.github.io)
 - [DTCalabro's Repo](https://dtcalabro.github.io/repo/)
 - [ETHN's Repo](https://nahtedetihw.github.io/)
+- [ETHN's Repo](https://nahtedetihw.github.io)
 - [Ginsu Tweaks](https://ginsu.dev/repo/)
 - [HackYouriPhone](https://repo.hackyouriphone.org)
 - [Havoc](https://havoc.app)
@@ -95,6 +96,7 @@
 | PinAnim | [Havoc](https://havoc.app) |
 | PowerSelector | [ichitaso repository](https://ichitaso.com/apt/) |
 | QuickActions | [Chariz](https://repo.chariz.com/) |
+| ReachPlayer | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | RecordPause | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | Rune | [Havoc](https://havoc.app) |
 | Senri | [Chariz](https://repo.chariz.com/) |
