@@ -76,7 +76,7 @@ tweaks:
   - name: "BackgrounderAction15 (CCSupport)"
     repo: "Akusio repo"
   - name: "BetaAlertRemove"
-    repo: "[Little34306 .deb download](https://github.com/34306/iPA/releases/download/bstr/com.34306.betaalertremove_1.0-2+debug_iphoneos-arm64e.deb)
+    repo: ".deb file in releases"
   - name: "betterAlarm"
     repo: "Chariz"
   - name: "BoldersReborn"
