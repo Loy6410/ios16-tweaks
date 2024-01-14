@@ -45,7 +45,7 @@
 | BackgrounderAction15 (CCSupport) | [Akusio repo](https://akusio.github.io) |
 | Badger | [Havoc](https://havoc.app) |
 | BatteryBuddy | [vyolit](https://github.com/vyolit/BatteryBuddy) |
-| BetaAlertRemove | - |
+| BetaAlertRemove | .deb file in releases |
 | betterAlarm | [Chariz](https://repo.chariz.com/) |
 | BoldersReborn | [Chariz](https://repo.chariz.com/) |
 | CAHighFPS | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
