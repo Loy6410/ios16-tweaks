@@ -97,6 +97,7 @@
 | QuickActions | [Chariz](https://repo.chariz.com/) |
 | RecordPause | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | Rune | [Havoc](https://havoc.app) |
+| Senri | [Chariz](https://repo.chariz.com/) |
 | ShowTouch | [RootHide's Repo](https://roothide.github.io) |
 | Shuffle | [CreatureCoding](https://creaturecoding.com/repo/) |
 | SmartBattery iOS 15-16 | [Havoc](https://havoc.app) |
