@@ -10,7 +10,6 @@
 - [Dcsyhi Repo](https://dcsyhi1998.github.io)
 - [DTCalabro's Repo](https://dtcalabro.github.io/repo/)
 - [ETHN's Repo](https://nahtedetihw.github.io/)
-- [ETHN's Repo](https://nahtedetihw.github.io)
 - [Ginsu Tweaks](https://ginsu.dev/repo/)
 - [HackYouriPhone](https://repo.hackyouriphone.org)
 - [Havoc](https://havoc.app)
