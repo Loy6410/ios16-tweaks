@@ -7,7 +7,7 @@
 - [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/)
 - [Chariz](https://repo.chariz.com/)
 - [CreatureCoding](https://creaturecoding.com/repo/)
-- [Dcsyhi Repo](https://dcsyhi1998.github.io)
+- [Dcsyhi1998's Repo](https://dcsyhi1998.github.io)
 - [DTCalabro's Repo](https://dtcalabro.github.io/repo/)
 - [ETHN's Repo](https://nahtedetihw.github.io/)
 - [Ginsu Tweaks](https://ginsu.dev/repo/)
@@ -74,6 +74,7 @@
 | FingerLock | [Havoc](https://havoc.app) |
 | Five Icon Dock | [RootHide's Repo](https://roothide.github.io) |
 | Gravitation | [HackYouriPhone](https://repo.hackyouriphone.org) |
+| HideSerialNumber | [ichitaso repository](https://ichitaso.com/apt/) |
 | IconOrder | [Havoc](https://havoc.app) |
 | IconRotation | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | iKSettings | [iKarwan](https://repo.ikghd.me/) |
@@ -106,7 +107,6 @@
 | SmartNetwork iOS 15-16 | [Havoc](https://havoc.app) |
 | Snapper 3 | [Havoc](https://havoc.app) |
 | SnowBoard | [SparkDev](https://sparkdev.me) |
-| Sonitus (idk if it works, if someone could test it?) | [Chariz](https://repo.chariz.com/) |
 | Spectrum | [alias20](https://alias20.gitlab.io/apt/) |
 | Speedster | [Havoc](https://havoc.app) |
 | StatusFolder | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
@@ -135,6 +135,7 @@
 | --- | --- |
 | CarBridge | [Havoc](https://havoc.app) |
 | iKeywi 4 | [Havoc](https://havoc.app) |
+| Sonitus | [Chariz](https://repo.chariz.com/) |
 
 ## Not Working
 | Name | Repository | Issue |
@@ -150,7 +151,7 @@
 | Prysm | [Havoc](https://havoc.app) | Sends you to safe mode. |
 | VolVibes | [Havoc](https://havoc.app) | Doesn't work and crashes settings when attempting to open its preferences. |
 | YellowPages 2 | [MiRO's Repo](https://miro92.com/repo/) | Not activating with trueCaller. |
-| Zetsu Rootless | [Dcsyhi Repo](https://dcsyhi1998.github.io) | Sends you to safe mode when opening an app. |
+| Zetsu | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) | Opening apps as windows in 3D touch menu works, but if you try to regularly open any app it causes springboard to crash. |
 
 ## Credits
 - [Roothide Bootstrap (by roothideDev)](https://github.com/roothide/Bootstrap)
