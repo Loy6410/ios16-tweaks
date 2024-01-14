@@ -49,6 +49,8 @@ repos:
     name: "Dcsyhi Repo"
   - url: "https://repo.co.kr"
     name: "Merona Repo"
+  - url: "https://nahtedetihw.github.io"
+    name: "ETHN's Repo"
 
 tweaks:
   - name: "3DAppVersionSpoofer"
@@ -223,6 +225,8 @@ tweaks:
     repo: "CreatureCoding"
   - name: "Senri"
     repo: "Chariz"
+  - name: "ReachPlayer"
+    repo: "ETHN's Repo"
 
 themes:
   - name: "Ambre"
