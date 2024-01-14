@@ -31,6 +31,8 @@
 | --- | --- |
 | 3DAppVersionSpoofer | [RootHide's Repo](https://roothide.github.io) |
 | AdvancedBrightnessSlider | [Havoc](https://havoc.app) |
+| Akara | [Chariz](https://repo.chariz.com/) |
+| Alpine | [Havoc](https://havoc.app) |
 | Alpine | [Havoc](https://havoc.app) |
 | Always120 | [Havoc](https://havoc.app) |
 | Ambre | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
@@ -55,6 +57,8 @@
 | CCMusicArtwork | [SparkDev](https://sparkdev.me) |
 | CCPowerMenu | [MTAC's Repo](https://mtac.app/repo/) |
 | CCSupport | [RootHide's Repo](https://roothide.github.io) |
+| CCVibration | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| CCVPN | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | CloseAll | [Havoc](https://havoc.app) |
 | ColorBar15 | [DTCalabro's Repo](https://dtcalabro.github.io/repo/) |
 | ColorMyBattery | [RootHide's Repo](https://roothide.github.io) |
