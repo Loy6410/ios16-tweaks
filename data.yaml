@@ -49,8 +49,6 @@ repos:
     name: "Dcsyhi Repo"
   - url: "https://repo.co.kr"
     name: "Merona Repo"
-  - url: "https://nahtedetihw.github.io"
-    name: "ETHN's Repo"
 
 tweaks:
   - name: "3DAppVersionSpoofer"
