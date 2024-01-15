@@ -4,6 +4,7 @@
 - [Akusio repo](https://akusio.github.io)
 - [alias20](https://alias20.gitlab.io/apt/)
 - [AnthoPak's Repo](https://repo.anthopak.dev/)
+- [b4db1r3's r3p0](https://b4db1r3.github.io/d3vr3p0/)
 - [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/)
 - [Chariz](https://repo.chariz.com/)
 - [CreatureCoding](https://creaturecoding.com/repo/)
@@ -63,6 +64,7 @@
 | ColorBar15 | [DTCalabro's Repo](https://dtcalabro.github.io/repo/) |
 | ColorMyBattery | [RootHide's Repo](https://roothide.github.io) |
 | covertCK | [CreatureCoding](https://creaturecoding.com/repo/) |
+| CozyBadges | [b4db1r3's r3p0](https://b4db1r3.github.io/d3vr3p0/) |
 | Cthulhu | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | CustomizeCC | [Havoc](https://havoc.app) |
 | Designer | [JunesiPhone](http://junesiphone.com/supersecret/) |
