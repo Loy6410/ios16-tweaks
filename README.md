@@ -79,6 +79,7 @@
 | FakeSignalBar | [alias20](https://alias20.gitlab.io/apt/) |
 | FingerLock | [Havoc](https://havoc.app) |
 | Five Icon Dock | [RootHide's Repo](https://roothide.github.io) |
+| Gestune | [Havoc](https://havoc.app) |
 | Gravitation | [HackYouriPhone](https://repo.hackyouriphone.org) |
 | HideSerialNumber | [ichitaso repository](https://ichitaso.com/apt/) |
 | IconOrder | [Havoc](https://havoc.app) |
@@ -91,6 +92,7 @@
 | Laetus | [SparkDev](https://sparkdev.me) |
 | LocationService (CCSupport) | [ichitaso repository](https://ichitaso.com/apt/) |
 | Lynx 2 | [Havoc](https://havoc.app) |
+| MobileGoose | [b4db1r3's r3p0](https://b4db1r3.github.io/d3vr3p0/) |
 | MoreLinesNotifications | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | NewTerm 3 Beta | [RootHide's Repo](https://roothide.github.io) |
 | NoDockGround | [RootHide's Repo](https://roothide.github.io) |
