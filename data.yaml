@@ -1,4 +1,6 @@
 repos:
+  - url: "https://cydia.rob311.com/repo/"
+    name: "rob311's beta repo"
   - url: "https://alias20.gitlab.io/apt/"
     name: "alias20"
   - url: "https://repo.anthopak.dev/"
@@ -51,6 +53,10 @@ repos:
     name: "Merona Repo"
 
 tweaks:
+  - name: "VolSkip11"
+    repo: "rob311's beta repo"
+  - name: "TrollLEDs"
+    repo: "PoomSmart's Repo"
   - name: "AirDrop16"
     repo: "Havoc"
   - name: "BigSurCenter"
