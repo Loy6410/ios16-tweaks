@@ -37,6 +37,7 @@
 | Alpine | [Havoc](https://havoc.app) |
 | Always120 | [Havoc](https://havoc.app) |
 | Ambre | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
+| AnyKeyTrackPad | [Havoc](https://havoc.app) |
 | App Hider | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | App Library Disabler | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | AppColorClose | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
@@ -50,6 +51,8 @@
 | BatteryBuddy | [vyolit](https://github.com/vyolit/BatteryBuddy) |
 | BetaAlertRemove | .deb file in releases |
 | betterAlarm | [Chariz](https://repo.chariz.com/) |
+| BetterCCXI | atwiiks |
+| BlurryAlerts | [alias20](https://alias20.gitlab.io/apt/) |
 | BoldersReborn | [Chariz](https://repo.chariz.com/) |
 | CAHighFPS | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | Cardculator | [Havoc](https://havoc.app) |
@@ -67,8 +70,11 @@
 | CozyBadges | [b4db1r3's r3p0](https://b4db1r3.github.io/d3vr3p0/) |
 | Cthulhu | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | CustomizeCC | [Havoc](https://havoc.app) |
+| Data Logo Switcher | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| DeleteCut | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | Designer | [JunesiPhone](http://junesiphone.com/supersecret/) |
 | DLEasy | [Havoc](https://havoc.app) |
+| DNDMyRecording | [Havoc](https://havoc.app) |
 | Dodo | [Ginsu Tweaks](https://ginsu.dev/repo/) |
 | DownloadBar13 | [alias20](https://alias20.gitlab.io/apt/) |
 | DynamicPeninsula | [Limneos Repo](http://limneos.net/repo/) |
@@ -82,6 +88,7 @@
 | Gestune | [Havoc](https://havoc.app) |
 | Gravitation | [HackYouriPhone](https://repo.hackyouriphone.org) |
 | HideSerialNumber | [ichitaso repository](https://ichitaso.com/apt/) |
+| HotspotQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | IconOrder | [Havoc](https://havoc.app) |
 | IconRotation | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | iKSettings | [iKarwan](https://repo.ikghd.me/) |
