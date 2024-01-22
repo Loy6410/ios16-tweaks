@@ -32,8 +32,9 @@
 | --- | --- |
 | 3DAppVersionSpoofer | [RootHide's Repo](https://roothide.github.io) |
 | AdvancedBrightnessSlider | [Havoc](https://havoc.app) |
+| AirDrop16 | [Havoc](https://havoc.app) |
+| AirDrop16 | N/A |
 | Akara | [Chariz](https://repo.chariz.com/) |
-| Alpine | [Havoc](https://havoc.app) |
 | Alpine | [Havoc](https://havoc.app) |
 | Always120 | [Havoc](https://havoc.app) |
 | Ambre | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
@@ -52,6 +53,7 @@
 | BetaAlertRemove | .deb file in releases |
 | betterAlarm | [Chariz](https://repo.chariz.com/) |
 | BetterCCXI | atwiiks |
+| BigSurCenter | [Havoc](https://havoc.app) |
 | BlurryAlerts | [alias20](https://alias20.gitlab.io/apt/) |
 | BoldersReborn | [Chariz](https://repo.chariz.com/) |
 | CAHighFPS | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
@@ -95,12 +97,14 @@
 | iNstaKiller | [iKarwan](https://repo.ikghd.me/) |
 | InstaLauncher 2 | [Havoc](https://havoc.app) |
 | Jade | [Chariz](https://repo.chariz.com/) |
+| Kayoko (app tweak injection) | [GitHub](https://github.com/vyolit/Kayoko) |
 | KrashKop | [Havoc](https://havoc.app) |
 | Laetus | [SparkDev](https://sparkdev.me) |
 | LocationService (CCSupport) | [ichitaso repository](https://ichitaso.com/apt/) |
 | Lynx 2 | [Havoc](https://havoc.app) |
 | MobileGoose | [b4db1r3's r3p0](https://b4db1r3.github.io/d3vr3p0/) |
 | MoreLinesNotifications | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| MusicArtworkSave | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | NewTerm 3 Beta | [RootHide's Repo](https://roothide.github.io) |
 | NoDockGround | [RootHide's Repo](https://roothide.github.io) |
 | NoMoreDisabled | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
@@ -116,6 +120,7 @@
 | RecordPause | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | Rune | [Havoc](https://havoc.app) |
 | Senri | [Chariz](https://repo.chariz.com/) |
+| Senri | [Chariz](https://repo.chariz.com/) |
 | ShowTouch | [RootHide's Repo](https://roothide.github.io) |
 | Shuffle | [CreatureCoding](https://creaturecoding.com/repo/) |
 | SmartBattery iOS 15-16 | [Havoc](https://havoc.app) |
@@ -129,6 +134,7 @@
 | Trim (saw for rootless) | [iGerman](https://repo.igerman.cc) |
 | TweakSettings | [CreatureCoding](https://creaturecoding.com/repo/) |
 | Uptime | [RootHide's Repo](https://roothide.github.io) |
+| Ve | [GitHub](https://github.com/vyolit/Ve) |
 | Velvet 2 | [Chariz](https://repo.chariz.com/) |
 | WifiQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YouTubeKiller | [iKarwan](https://repo.ikghd.me/) |
@@ -158,8 +164,9 @@
 | Aemulo | [Chariz](https://repo.chariz.com/) | No tweak injection support for NFCD. |
 | AudioRecorder XS | [Limneos Repo](http://limneos.net/repo/) | Doesn't record. |
 | Axon | [Merona Repo](https://repo.co.kr) | Sends you to safe mode when clicking on notifications. |
-| CarBridge | N/A | It shows in settings, however it doesnt work in CarPlay. |
+| CarBridge | [Havoc](https://havoc.app) | It shows in settings, however it doesnt work in CarPlay. |
 | Color3DIcons | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) | Sends you to safe mode when attempting to open colored 3D touch menu. |
+| Diary | [GitHub](https://github.com/vyolit/Diary) |  |
 | Dynamic Stage | [Havoc](https://havoc.app) | After installing and respring it freezes and restarts the device. |
 | Juice | [SparkDev](https://sparkdev.me) | It seems that after you link your Patreon account, the license doesn't take effect. |
 | MilkyWay4 | [Akusio repo](https://akusio.github.io) | There's no option in the 3D touch menu to open the app as a window. |
@@ -172,4 +179,3 @@
 ## Credits
 - [Roothide Bootstrap (by roothideDev)](https://github.com/roothide/Bootstrap)
 - [Serotonin semi-jailbreak (by htrowii and mineek)](https://github.com/mineek/Serotonin)
-- [And thanks to GooglyBlox too for the readme generator!](https://github.com/GooglyBlox)
