@@ -24,6 +24,7 @@
 - [MiRO's Repo](https://miro92.com/repo/)
 - [MTAC's Repo](https://mtac.app/repo/)
 - [PoomSmart's Repo](https://poomsmart.github.io/repo/)
+- [rob311's beta repo](https://cydia.rob311.com/repo/)
 - [RootHide's Repo](https://roothide.github.io)
 - [SparkDev](https://sparkdev.me)
 
@@ -132,10 +133,12 @@
 | StatusFolder | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | Stella | [Havoc](https://havoc.app) |
 | Trim (saw for rootless) | [iGerman](https://repo.igerman.cc) |
+| TrollLEDs | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | TweakSettings | [CreatureCoding](https://creaturecoding.com/repo/) |
 | Uptime | [RootHide's Repo](https://roothide.github.io) |
 | Ve | [GitHub](https://github.com/vyolit/Ve) |
 | Velvet 2 | [Chariz](https://repo.chariz.com/) |
+| VolSkip11 | [rob311's beta repo](https://cydia.rob311.com/repo/) |
 | WifiQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YouTubeKiller | [iKarwan](https://repo.ikghd.me/) |
 
