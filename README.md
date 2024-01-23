@@ -169,6 +169,7 @@
 | Axon | [Merona Repo](https://repo.co.kr) | Sends you to safe mode when clicking on notifications. |
 | CarBridge | [Havoc](https://havoc.app) | It shows in settings, however it doesnt work in CarPlay. |
 | Color3DIcons | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) | Sends you to safe mode when attempting to open colored 3D touch menu. |
+| Diary | [GitHub](https://github.com/vyolit/Diary) | Crashes settings when attempting to open its preferences. |
 | Diary | [GitHub](https://github.com/vyolit/Diary) |  |
 | Dynamic Stage | [Havoc](https://havoc.app) | After installing and respring it freezes and restarts the device. |
 | Juice | [SparkDev](https://sparkdev.me) | It seems that after you link your Patreon account, the license doesn't take effect. |
