@@ -300,6 +300,9 @@ needs_testing:
     repo: "Chariz"
 
 not_working:
+  - name: "Diary"
+    repo: "[GitHub](https://github.com/vyolit/Diary)"
+    issue: "Crashes settings when attempting to open its preferences."
   - name: "Aemulo"
     repo: "Chariz"
     issue: "No tweak injection support for NFCD."
