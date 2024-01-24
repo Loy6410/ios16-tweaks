@@ -27,6 +27,8 @@
 - [Merona Repo](https://repo.co.kr)
 - [MiRO's Repo](https://miro92.com/repo/)
 - [MTAC's Repo](https://mtac.app/repo/)
+- [NiceiOS](https://global.niceios.com/)
+- [P2KDev's Repo](https://p2kdev.github.io/repo/)
 - [PoomSmart's Repo](https://poomsmart.github.io/repo/)
 - [rob311's beta repo](https://cydia.rob311.com/repo/)
 - [RootHide's Repo](https://roothide.github.io)
@@ -36,10 +38,10 @@
 | Name | Status | Issue | Repo |
 | --- | --- | --- | --- |
 | 3DAppVersionSpoofer | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
+| ActionBar | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
 | AdvancedBrightnessSlider | ✔️ | - | [Havoc](https://havoc.app) |
 | Aemulo | ❌ | No tweak injection support for NFCD. | [Chariz](https://repo.chariz.com/) |
 | AirDrop16 | ✔️ | - | [Havoc](https://havoc.app) |
-| AirDrop16 | ✔️ | - | N/A |
 | Akara | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | Alpine | ✔️ | - | [Havoc](https://havoc.app) |
 | Always120 | ✔️ | - | [Havoc](https://havoc.app) |
@@ -62,6 +64,7 @@
 | betterAlarm | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | BetterCCXI | ✔️ | - | atwiiks |
 | BigSurCenter | ✔️ | - | [Havoc](https://havoc.app) |
+| BioProtect XS (roothide) | ✔️ | - | [Limneos Repo](http://limneos.net/repo/) |
 | BlurryAlerts | ✔️ | - | [alias20](https://alias20.gitlab.io/apt/) |
 | BoldersReborn | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | CAHighFPS | ✔️ | - | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
@@ -103,7 +106,6 @@
 | FingerLock | ✔️ | - | [Havoc](https://havoc.app) |
 | Five Icon Dock | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
 | Gestune | ✔️ | - | [Havoc](https://havoc.app) |
-| Gestune | ✔️ | - | [Havoc](https://havoc.app) |
 | HideSerialNumber | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
 | HotspotQR | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | IconOrder | ✔️ | - | [Havoc](https://havoc.app) |
@@ -127,6 +129,9 @@
 | MusicArtworkSave | ✔️ | - | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | NewTerm 3 Beta | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
 | Nexus | ❌ | Sends you to safe mode. | [Havoc](https://havoc.app) |
+| NiceBarX (bootstrap) | ✔️ | - | [NiceiOS](https://global.niceios.com/) |
+| NiceCaller (bootstrap) | ✔️ | - | [NiceiOS](https://global.niceios.com/) |
+| NiceLogX (bootstrap) | ✔️ | - | [NiceiOS](https://global.niceios.com/) |
 | NoDockGround | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
 | NoMoreDisabled | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | NotiCopy15 | ✔️ | - | [iCraze's Repo](https://repo.icrazeios.com) |
@@ -137,12 +142,14 @@
 | PanCake | ✔️ | - | [AnthoPak's Repo](https://repo.anthopak.dev/) |
 | PinAnim | ✔️ | - | [Havoc](https://havoc.app) |
 | PowerSelector | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
-| Prysm | ❌ | Sends you to safe mode. | [Havoc](https://havoc.app) |
+| Prysm | ❌ | Sends you to safe mode. Use Jade instead. | [Havoc](https://havoc.app) |
 | QuickActions | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | ReachPlayer | ✔️ | - | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | RecordPause | ✔️ | - | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | RingerToggle | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
 | Rune | ❌ | Opening Rune menu sends you to safemode. | [Havoc](https://havoc.app) |
+| SafariFastType | ✔️ | - | [P2KDev's Repo](https://p2kdev.github.io/repo/) |
+| SafeModeMuteToggle | ❌ | Doesn't safe-mode you when toggling mute switch. | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | Senri | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | Senri | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | ShowTouch | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
@@ -167,7 +174,7 @@
 | VolSkip11 | ✔️ | - | [rob311's beta repo](https://cydia.rob311.com/repo/) |
 | VolVibes | ❌ | Doesn't work and crashes settings when attempting to open its preferences. | [Havoc](https://havoc.app) |
 | WifiQR | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
-| YellowPages 2 | ❌ | Not activating with trueCaller. | [MiRO's Repo](https://miro92.com/repo/) |
+| YellowPages 2 | ❌ | Not activating with TrueCaller. | [MiRO's Repo](https://miro92.com/repo/) |
 | YouTubeKiller | ✔️ | - | [iKarwan](https://repo.ikghd.me/) |
 | Zetsu | ❌ | Opening apps as windows in 3D touch menu works, but if you try to regularly open any app it causes springboard to crash. | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) |
 
