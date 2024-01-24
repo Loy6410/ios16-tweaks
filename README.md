@@ -12,7 +12,6 @@
 - [DTCalabro's Repo](https://dtcalabro.github.io/repo/)
 - [ETHN's Repo](https://nahtedetihw.github.io/)
 - [Ginsu Tweaks](https://ginsu.dev/repo/)
-- [HackYouriPhone](https://repo.hackyouriphone.org)
 - [Havoc](https://havoc.app)
 - [ichitaso repository](https://ichitaso.com/apt/)
 - [iCraze's Repo](https://repo.icrazeios.com)
@@ -89,7 +88,7 @@
 | FingerLock | [Havoc](https://havoc.app) |
 | Five Icon Dock | [RootHide's Repo](https://roothide.github.io) |
 | Gestune | [Havoc](https://havoc.app) |
-| Gravitation | [HackYouriPhone](https://repo.hackyouriphone.org) |
+| Gravitation | N/A |
 | HideSerialNumber | [ichitaso repository](https://ichitaso.com/apt/) |
 | HotspotQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | IconOrder | [Havoc](https://havoc.app) |
