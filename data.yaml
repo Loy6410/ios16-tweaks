@@ -386,7 +386,7 @@ not_working:
     issue: ""
   - name: "Rune"
     repo: "Havoc"
-    issue: "Opening Rune menu sends you to safemode. Developer recommends waiting until Serotonin supports a non-roothide bootstrap, or Dopamine v2 releases."
+    issue: "Opening Rune menu sends you to safemode. Developer recommends waiting until Serotonin supports a non-roothide bootstrap, or Dopamine 2.0 releases."
   - name: "SafeModeMuteToggle"
     repo: "ETHN's Repo"
     issue: "Doesn't safe-mode you when toggling mute switch."
