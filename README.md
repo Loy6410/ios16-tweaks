@@ -33,6 +33,7 @@
 - [rob311's beta repo](https://cydia.rob311.com/repo/)
 - [RootHide's Repo](https://roothide.github.io)
 - [SparkDev](https://sparkdev.me)
+- [YouRepo](https://www.yourepo.com)
 
 ## Tweaks
 | Name | Status | Issue | Repo |
@@ -59,7 +60,7 @@
 | Axon | ❌ | Sends you to safe mode when clicking on notifications. | [Merona Repo](https://repo.co.kr) |
 | BackgrounderAction15 (CCSupport) | ✔️ | - | [Akusio repo](https://akusio.github.io) |
 | Badger | ✔️ | - | [Havoc](https://havoc.app) |
-| BatteryBuddy | ✔️ | - | [vyolit](https://github.com/vyolit/BatteryBuddy) |
+| BatteryBuddy | ✔️ | - | [GitHub](https://github.com/vyolit/BatteryBuddy) |
 | BetaAlertRemove | ✔️ | - | .deb file in releases |
 | betterAlarm | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | BetterCCXI | ✔️ | - | atwiiks |
@@ -73,11 +74,13 @@
 | Cardculator | ✔️ | - | [Havoc](https://havoc.app) |
 | Cask3 | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | CC On & Off | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
+| CCCalc | ✔️ | - | [GitHub](https://github.com/gilesgc/CCCalc) |
 | CCMusicArtwork | ✔️ | - | [SparkDev](https://sparkdev.me) |
 | CCPowerMenu | ✔️ | - | [MTAC's Repo](https://mtac.app/repo/) |
 | CCSupport | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
 | CCVibration | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | CCVPN | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| Chhotabanner | ✔️ | - | [GitHub](https://github.com/DrakeDrac/chhotabanner/) |
 | CloseAll | ✔️ | - | [Havoc](https://havoc.app) |
 | Color3DIcons | ❌ | Sends you to safe mode when attempting to open colored 3D touch menu. | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | ColorBar15 | ✔️ | - | [DTCalabro's Repo](https://dtcalabro.github.io/repo/) |
@@ -88,6 +91,7 @@
 | CustomizeCC | ✔️ | - | [Havoc](https://havoc.app) |
 | Data Logo Switcher | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | DeleteCut | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
+| DeleteForeverXS | ✔️ | - | [P2KDev's Repo](https://p2kdev.github.io/repo/) |
 | Designer | ✔️ | - | [JunesiPhone](http://junesiphone.com/supersecret/) |
 | Diary | ❌ | Crashes settings when attempting to open its preferences. | [GitHub](https://github.com/vyolit/Diary) |
 | Diary | ❌ |  | [GitHub](https://github.com/vyolit/Diary) |
@@ -99,10 +103,11 @@
 | Dynamic Stage | ❌ | After installing and respring it freezes and restarts the device. | [Havoc](https://havoc.app) |
 | DynamicPeninsula | ✔️ | - | [Limneos Repo](http://limneos.net/repo/) |
 | Ellekit | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
-| Eneko | ✔️ | - | [vyolit](https://github.com/vyolit/Eneko) |
+| Eneko | ✔️ | - | [GitHub](https://github.com/vyolit/Eneko) |
 | Everest | ✔️ | - | [Havoc](https://havoc.app) |
 | EZSwipe | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
 | FakeSignalBar | ✔️ | - | [alias20](https://alias20.gitlab.io/apt/) |
+| Favemoji | ✔️ | - | [iCraze's Repo](https://repo.icrazeios.com) |
 | FingerLock | ✔️ | - | [Havoc](https://havoc.app) |
 | Five Icon Dock | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
 | Gestune | ✔️ | - | [Havoc](https://havoc.app) |
@@ -119,6 +124,7 @@
 | Juice | ❌ | It seems that after you link your Patreon account, the license doesn't take effect. | [SparkDev](https://sparkdev.me) |
 | Kayoko (app tweak injection) | ✔️ | - | [GitHub](https://github.com/vyolit/Kayoko) |
 | KeepMyJB | ✔️ | - | [iCraze's Repo](https://repo.icrazeios.com) |
+| KeySwipe | ✔️ | - | [GitHub](https://github.com/julioverne/KeySwipe11) |
 | KrashKop | ✔️ | - | [Havoc](https://havoc.app) |
 | Laetus | ✔️ | - | [SparkDev](https://sparkdev.me) |
 | LocationService (CCSupport) | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
@@ -143,9 +149,11 @@
 | PinAnim | ✔️ | - | [Havoc](https://havoc.app) |
 | PowerSelector | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
 | Prysm | ❌ | Sends you to safe mode. Use Jade instead. | [Havoc](https://havoc.app) |
+| QuickActionCalc | ✔️ | - | [P2KDev's Repo](https://p2kdev.github.io/repo/) |
 | QuickActions | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | ReachPlayer | ✔️ | - | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | RecordPause | ✔️ | - | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
+| RespringAlert | ✔️ | - | [YouRepo](https://www.yourepo.com) |
 | RingerToggle | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
 | Rune | ❌ | Opening Rune menu sends you to safemode. | [Havoc](https://havoc.app) |
 | SafariFastType | ✔️ | - | [P2KDev's Repo](https://p2kdev.github.io/repo/) |
