@@ -25,12 +25,14 @@ def generate_markdown_table(entries, repos, category):
 
         if category == "not_working":
             compatibility = "❌"
+            issue = entry.get('issue', 'N/A')
         elif category == "needs_testing":
             compatibility = "⚠️"
+            issue = ""
         else:
-            compatibility = "✔️"
+            compatibility = "✔️" if category == "tweaks" else ""
+            issue = ""
 
-        issue = entry.get('issue', 'N/A') if category == "not_working" else ""
         row = f"| {entry['name']} | {compatibility} | {issue} | {entry.get('description', 'N/A')} | {repo_markdown} |"
         table += row + "\n"
     return table
@@ -50,13 +52,21 @@ def main():
 
     markdown_content += generate_repository_list(repos) + "\n"
 
-    working_entries = sort_entries_by_name(data.get('tweaks', [])) + sort_entries_by_name(data.get('themes', []))
+    tweak_entries = sort_entries_by_name(data.get('tweaks', []))
+    theme_entries = sort_entries_by_name(data.get('themes', []))
     not_working_entries = sort_entries_by_name(data.get('not_working', []))
 
-    merged_entries = sort_entries_by_name(working_entries + not_working_entries)
+    merged_entries = sort_entries_by_name(tweak_entries + theme_entries + not_working_entries)
 
-    markdown_content += "## Compatible Tweaks and Themes\n"
-    markdown_content += generate_markdown_table(merged_entries, repos, "compatible") + "\n"
+    markdown_content += "## Compatible Tweaks\n"
+    markdown_content += generate_markdown_table(tweak_entries, repos, "tweaks") + "\n"
+
+    markdown_content += "## Compatible Themes\n"
+    markdown_content += generate_markdown_table(theme_entries, repos, "themes") + "\n"
+
+    if not_working_entries:
+        markdown_content += "## Not Working\n"
+        markdown_content += generate_markdown_table(not_working_entries, repos, "not_working") + "\n"
 
     markdown_content += "## Needs Testing\n"
     markdown_content += generate_markdown_table(sort_entries_by_name(data.get('needs_testing', [])), repos, "needs_testing") + "\n"
