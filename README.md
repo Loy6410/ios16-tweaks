@@ -155,7 +155,7 @@
 | RecordPause | ✔️ | - | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | RespringAlert | ✔️ | - | [YouRepo](https://www.yourepo.com) |
 | RingerToggle | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
-| Rune | ❌ | Opening Rune menu sends you to safemode. | [Havoc](https://havoc.app) |
+| Rune | ❌ | Opening Rune menu sends you to safemode. Developer recommends waiting until Serotonin supports a non-roothide bootstrap, or Dopamine v2 releases. | [Havoc](https://havoc.app) |
 | SafariFastType | ✔️ | - | [P2KDev's Repo](https://p2kdev.github.io/repo/) |
 | SafeModeMuteToggle | ❌ | Doesn't safe-mode you when toggling mute switch. | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | Senri | ✔️ | - | [Chariz](https://repo.chariz.com/) |
