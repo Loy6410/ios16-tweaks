@@ -53,6 +53,8 @@ repos:
     name: "NiceiOS"
   - url: "https://p2kdev.github.io/repo/"
     name: "P2KDev's Repo"
+  - url: "https://www.yourepo.com"
+    name: "YouRepo"
 
 tweaks:
   - name: "VolSkip11"
@@ -162,7 +164,7 @@ tweaks:
   - name: "Ellekit"
     repo: "RootHide's Repo"
   - name: "Eneko"
-    repo: "[vyolit](https://github.com/vyolit/Eneko)"
+    repo: "[GitHub](https://github.com/vyolit/Eneko)"
   - name: "Everest"
     repo: "Havoc"
   - name: "EZSwipe"
@@ -262,7 +264,7 @@ tweaks:
   - name: "Stella"
     repo: "Havoc"
   - name: "BatteryBuddy"
-    repo: "[vyolit](https://github.com/vyolit/BatteryBuddy)"
+    repo: "[GitHub](https://github.com/vyolit/BatteryBuddy)"
   - name: "TweakSettings"
     repo: "CreatureCoding"
   - name: "Senri"
@@ -295,6 +297,20 @@ tweaks:
     repo: "NiceiOS"
   - name: "SafariFastType"
     repo: "P2KDev's Repo"
+  - name: "CCCalc"
+    repo: "[GitHub](https://github.com/gilesgc/CCCalc)"
+  - name: "Chhotabanner"
+    repo: "[GitHub](https://github.com/DrakeDrac/chhotabanner/)"
+  - name: "DeleteForeverXS"
+    repo: "P2KDev's Repo"
+  - name: "Favemoji"
+    repo: "iCraze's Repo"
+  - name: "KeySwipe"
+    repo: "[GitHub](https://github.com/julioverne/KeySwipe11)"
+  - name: "QuickActionCalc"
+    repo: "P2KDev's Repo"
+  - name: "RespringAlert"
+    repo: "YouRepo"
   
 
 themes:
