@@ -50,10 +50,16 @@ def main():
 
     markdown_content += generate_repository_list(repos) + "\n"
 
-    for category in ['tweaks', 'themes', 'needs_testing', 'not_working']:
-        markdown_content += f"## {category.title().replace('_', ' ')}\n"
-        sorted_entries = sort_entries_by_name(data.get(category, []))
-        markdown_content += generate_markdown_table(sorted_entries, repos, category) + "\n"
+    working_entries = sort_entries_by_name(data.get('tweaks', [])) + sort_entries_by_name(data.get('themes', []))
+    not_working_entries = sort_entries_by_name(data.get('not_working', []))
+
+    merged_entries = sort_entries_by_name(working_entries + not_working_entries)
+
+    markdown_content += "## Compatible Tweaks and Themes\n"
+    markdown_content += generate_markdown_table(merged_entries, repos, "compatible") + "\n"
+
+    markdown_content += "## Needs Testing\n"
+    markdown_content += generate_markdown_table(sort_entries_by_name(data.get('needs_testing', [])), repos, "needs_testing") + "\n"
 
     markdown_content += "## Credits\n"
     for credit in data.get('credits', []):
