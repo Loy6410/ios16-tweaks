@@ -9,8 +9,8 @@ def sort_entries_by_name(entries):
     return sorted(entries, key=lambda x: x['name'].lower())
 
 def generate_markdown_table(entries, repos, category):
-    headers = "| Name | Compatible | Issue | Description | Repo |"
-    header_separator = "| --- | --- | --- | --- | --- |"
+    headers = "| Name | Compatible | Description | Repo |"
+    header_separator = "| --- | --- | --- | --- |"
 
     table = headers + "\n" + header_separator + "\n"
     markdown_link_pattern = re.compile(r'\[.+\]\(.+\)')
@@ -25,15 +25,12 @@ def generate_markdown_table(entries, repos, category):
 
         if category == "not_working":
             compatibility = "❌"
-            issue = entry.get('issue', 'N/A')
         elif category == "needs_testing":
             compatibility = "⚠️"
-            issue = ""
         else:
-            compatibility = "✔️" if category == "tweaks" else ""
-            issue = ""
+            compatibility = "✔️"
 
-        row = f"| {entry['name']} | {compatibility} | {issue} | {entry.get('description', 'N/A')} | {repo_markdown} |"
+        row = f"| {entry['name']} | {compatibility} | {entry.get('description', 'N/A')} | {repo_markdown} |"
         table += row + "\n"
     return table
 
@@ -48,7 +45,7 @@ def main():
     data = load_yaml('data.yaml')
 
     repos = data.get('repos', [])
-    markdown_content = "# iOS 16 Compatible Semi-Jailbreak Tweaks\n\n"
+    markdown_content = "# iOS 16 Compatible Semi-Jailbreak Tweaks and Themes\n\n"
 
     markdown_content += generate_repository_list(repos) + "\n"
 
@@ -58,14 +55,11 @@ def main():
 
     merged_entries = sort_entries_by_name(tweak_entries + theme_entries + not_working_entries)
 
-    markdown_content += "## Compatible Tweaks\n"
-    markdown_content += generate_markdown_table(tweak_entries, repos, "tweaks") + "\n"
-
-    markdown_content += "## Compatible Themes\n"
-    markdown_content += generate_markdown_table(theme_entries, repos, "themes") + "\n"
+    markdown_content += "## Compatible Tweaks and Themes\n"
+    markdown_content += generate_markdown_table(merged_entries, repos, "compatible") + "\n"
 
     if not_working_entries:
-        markdown_content += "## Not Working\n"
+        markdown_content += "## Not Working Tweaks and Themes\n"
         markdown_content += generate_markdown_table(not_working_entries, repos, "not_working") + "\n"
 
     markdown_content += "## Needs Testing\n"
