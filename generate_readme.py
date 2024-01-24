@@ -8,9 +8,13 @@ def load_yaml(file_path):
 def sort_entries_by_name(entries):
     return sorted(entries, key=lambda x: x['name'].lower())
 
-def generate_markdown_table(entries, repos):
-    headers = "| Name | Status | Repo |"
-    header_separator = "| --- | --- | --- |"
+def generate_markdown_table(entries, repos, category):
+    if category == "tweaks":
+        headers = "| Name | Status | Issue | Repo |"
+        header_separator = "| --- | --- | --- | --- |"
+    else:
+        headers = "| Name | Status | Repo |"
+        header_separator = "| --- | --- | --- |"
 
     table = headers + "\n" + header_separator + "\n"
     markdown_link_pattern = re.compile(r'\[.+\]\(.+\)')
@@ -24,9 +28,13 @@ def generate_markdown_table(entries, repos):
             repo_markdown = f"[{repo_name}]({repo_url})" if repo_url else repo_name
 
         status = entry.get('status', '✔️')
+        issue = entry.get('issue', '-') if category == "tweaks" else ''
 
         row = f"| {entry['name']} | {status} | {repo_markdown} |"
+        if category == "tweaks":
+            row = f"| {entry['name']} | {status} | {issue} | {repo_markdown} |"
         table += row + "\n"
+
     return table
 
 def generate_repository_list(repos):
@@ -49,15 +57,16 @@ def main():
     not_working_entries = sort_entries_by_name(data.get('not_working', []))
     needs_testing_entries = sort_entries_by_name(data.get('needs_testing', []))
 
-    for entry in not_working_entries:
-        entry['status'] = '❌'
-    for entry in needs_testing_entries:
-        entry['status'] = '⚠️'
+    for entry in not_working_entries + needs_testing_entries:
+        entry['status'] = '❌' if entry in not_working_entries else '⚠️'
 
-    merged_entries = sort_entries_by_name(tweak_entries + theme_entries + not_working_entries + needs_testing_entries)
+    merged_tweak_entries = sort_entries_by_name(tweak_entries + not_working_entries + needs_testing_entries)
 
-    markdown_content += "## Tweaks and Themes\n"
-    markdown_content += generate_markdown_table(merged_entries, repos) + "\n"
+    markdown_content += "## Tweaks\n"
+    markdown_content += generate_markdown_table(merged_tweak_entries, repos, "tweaks") + "\n"
+
+    markdown_content += "## Themes\n"
+    markdown_content += generate_markdown_table(theme_entries, repos, "themes") + "\n"
 
     markdown_content += "## Credits\n"
     for credit in data.get('credits', []):
