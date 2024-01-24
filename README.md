@@ -75,6 +75,7 @@
 | Data Logo Switcher | ✔️ |  | N/A | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | DeleteCut | ✔️ |  | N/A | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | Designer | ✔️ |  | N/A | [JunesiPhone](http://junesiphone.com/supersecret/) |
+| Ding | ✔️ |  | N/A | [Chariz](https://repo.chariz.com/) |
 | DLEasy | ✔️ |  | N/A | [Havoc](https://havoc.app) |
 | DNDMyRecording | ✔️ |  | N/A | [Havoc](https://havoc.app) |
 | Dodo | ✔️ |  | N/A | [Ginsu Tweaks](https://ginsu.dev/repo/) |
@@ -88,6 +89,7 @@
 | FingerLock | ✔️ |  | N/A | [Havoc](https://havoc.app) |
 | Five Icon Dock | ✔️ |  | N/A | [RootHide's Repo](https://roothide.github.io) |
 | Gestune | ✔️ |  | N/A | [Havoc](https://havoc.app) |
+| Gestune | ✔️ |  | N/A | [Havoc](https://havoc.app) |
 | HideSerialNumber | ✔️ |  | N/A | [ichitaso repository](https://ichitaso.com/apt/) |
 | HotspotQR | ✔️ |  | N/A | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | IconOrder | ✔️ |  | N/A | [Havoc](https://havoc.app) |
@@ -95,8 +97,10 @@
 | iKSettings | ✔️ |  | N/A | [iKarwan](https://repo.ikghd.me/) |
 | iNstaKiller | ✔️ |  | N/A | [iKarwan](https://repo.ikghd.me/) |
 | InstaLauncher 2 | ✔️ |  | N/A | [Havoc](https://havoc.app) |
+| InstantCamera | ✔️ |  | N/A | [Havoc](https://havoc.app) |
 | Jade | ✔️ |  | N/A | [Chariz](https://repo.chariz.com/) |
 | Kayoko (app tweak injection) | ✔️ |  | N/A | [GitHub](https://github.com/vyolit/Kayoko) |
+| KeepMyJB | ✔️ |  | N/A | [iCraze's Repo](https://repo.icrazeios.com) |
 | KrashKop | ✔️ |  | N/A | [Havoc](https://havoc.app) |
 | Laetus | ✔️ |  | N/A | [SparkDev](https://sparkdev.me) |
 | LocationService (CCSupport) | ✔️ |  | N/A | [ichitaso repository](https://ichitaso.com/apt/) |
@@ -110,6 +114,7 @@
 | NotiCopy15 | ✔️ |  | N/A | [iCraze's Repo](https://repo.icrazeios.com) |
 | NotRecording | ✔️ |  | N/A | [RootHide's Repo](https://roothide.github.io) |
 | NowPlayingIconXVI | ✔️ |  | N/A | [Havoc](https://havoc.app) |
+| OLED Dark Mode | ✔️ |  | N/A | [b4db1r3's r3p0](https://b4db1r3.github.io/d3vr3p0/) |
 | OTADisabler | ✔️ |  | N/A | [ichitaso repository](https://ichitaso.com/apt/) |
 | PanCake | ✔️ |  | N/A | [AnthoPak's Repo](https://repo.anthopak.dev/) |
 | PinAnim | ✔️ |  | N/A | [Havoc](https://havoc.app) |
@@ -117,7 +122,7 @@
 | QuickActions | ✔️ |  | N/A | [Chariz](https://repo.chariz.com/) |
 | ReachPlayer | ✔️ |  | N/A | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | RecordPause | ✔️ |  | N/A | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
-| Rune | ✔️ |  | N/A | [Havoc](https://havoc.app) |
+| RingerToggle | ✔️ |  | N/A | [ichitaso repository](https://ichitaso.com/apt/) |
 | Senri | ✔️ |  | N/A | [Chariz](https://repo.chariz.com/) |
 | Senri | ✔️ |  | N/A | [Chariz](https://repo.chariz.com/) |
 | ShowTouch | ✔️ |  | N/A | [RootHide's Repo](https://roothide.github.io) |
@@ -133,9 +138,11 @@
 | Trim (saw for rootless) | ✔️ |  | N/A | [iGerman](https://repo.igerman.cc) |
 | TrollLEDs | ✔️ |  | N/A | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | TweakSettings | ✔️ |  | N/A | [CreatureCoding](https://creaturecoding.com/repo/) |
+| UnderDock | ✔️ |  | N/A | [RootHide's Repo](https://roothide.github.io) |
 | Uptime | ✔️ |  | N/A | [RootHide's Repo](https://roothide.github.io) |
 | Ve | ✔️ |  | N/A | [GitHub](https://github.com/vyolit/Ve) |
 | Velvet 2 | ✔️ |  | N/A | [Chariz](https://repo.chariz.com/) |
+| Violet Pro | ✔️ |  | N/A | [Havoc](https://havoc.app) |
 | VolSkip11 | ✔️ |  | N/A | [rob311's beta repo](https://cydia.rob311.com/repo/) |
 | WifiQR | ✔️ |  | N/A | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YouTubeKiller | ✔️ |  | N/A | [iKarwan](https://repo.ikghd.me/) |
@@ -155,9 +162,9 @@
 ## Needs Testing
 | Name | Compatible | Issue | Description | Repo |
 | --- | --- | --- | --- | --- |
-| CarBridge | ✔️ |  | N/A | [Havoc](https://havoc.app) |
-| iKeywi 4 | ✔️ |  | N/A | [Havoc](https://havoc.app) |
-| Sonitus | ✔️ |  | N/A | [Chariz](https://repo.chariz.com/) |
+| CarBridge | ⚠️ |  | N/A | [Havoc](https://havoc.app) |
+| iKeywi 4 | ⚠️ |  | N/A | [Havoc](https://havoc.app) |
+| Sonitus | ⚠️ |  | N/A | [Chariz](https://repo.chariz.com/) |
 
 ## Not Working
 | Name | Compatible | Issue | Description | Repo |
@@ -174,6 +181,7 @@
 | MilkyWay4 | ❌ | There's no option in the 3D touch menu to open the app as a window. | N/A | [Akusio repo](https://akusio.github.io) |
 | Nexus | ❌ | Sends you to safe mode. | N/A | [Havoc](https://havoc.app) |
 | Prysm | ❌ | Sends you to safe mode. | N/A | [Havoc](https://havoc.app) |
+| Rune | ❌ | Opening Rune menu sends you to safemode. | N/A | [Havoc](https://havoc.app) |
 | VolVibes | ❌ | Doesn't work and crashes settings when attempting to open its preferences. | N/A | [Havoc](https://havoc.app) |
 | YellowPages 2 | ❌ | Not activating with trueCaller. | N/A | [MiRO's Repo](https://miro92.com/repo/) |
 | Zetsu | ❌ | Opening apps as windows in 3D touch menu works, but if you try to regularly open any app it causes springboard to crash. | N/A | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) |
