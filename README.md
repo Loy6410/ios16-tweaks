@@ -1,5 +1,10 @@
 # iOS 16 Compatible Semi-Jailbreak Tweaks and Themes
 
+## Legend
+- ✔️: Working
+- ❌: Not Working
+- ⚠️: Needs Testing
+
 ## Repositories
 - [Akusio repo](https://akusio.github.io)
 - [alias20](https://alias20.gitlab.io/apt/)
