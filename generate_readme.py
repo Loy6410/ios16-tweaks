@@ -49,6 +49,11 @@ def main():
 
     repos = data.get('repos', [])
     markdown_content = "# iOS 16 Compatible Semi-Jailbreak Tweaks and Themes\n\n"
+    
+    markdown_content += "## Legend\n"
+    markdown_content += "- ✔️: Working\n"
+    markdown_content += "- ❌: Not Working\n"
+    markdown_content += "- ⚠️: Needs Testing\n\n"
 
     markdown_content += generate_repository_list(repos) + "\n"
 
@@ -67,7 +72,7 @@ def main():
 
     markdown_content += "## Themes\n"
     markdown_content += generate_markdown_table(theme_entries, repos, "themes") + "\n"
-
+    
     markdown_content += "## Credits\n"
     for credit in data.get('credits', []):
         markdown_content += f"- [{credit['name']}]({credit['link']})\n"
