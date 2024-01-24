@@ -187,4 +187,3 @@
 - [Roothide Bootstrap (by roothideDev)](https://github.com/roothide/Bootstrap)
 - [Serotonin semi-jailbreak (by htrowii and mineek)](https://github.com/mineek/Serotonin)
 - [GooglyBlox (for the README generation)](https://github.com/GooglyBlox)
-- [Nebula (for the README format inspiration)](https://github.com/itsnebulalol)
