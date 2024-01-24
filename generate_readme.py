@@ -23,9 +23,15 @@ def generate_markdown_table(entries, repos, category):
             repo_url = next((repo['url'] for repo in repos if repo['name'] == repo_name), None)
             repo_markdown = f"[{repo_name}]({repo_url})" if repo_url else repo_name
 
-        check_mark = "✔️" if category != "not_working" else "❌"
+        if category == "not_working":
+            compatibility = "❌"
+        elif category == "needs_testing":
+            compatibility = "⚠️"
+        else:
+            compatibility = "✔️"
+
         issue = entry.get('issue', 'N/A') if category == "not_working" else ""
-        row = f"| {entry['name']} | {check_mark} | {issue} | {entry.get('description', 'N/A')} | {repo_markdown} |"
+        row = f"| {entry['name']} | {compatibility} | {issue} | {entry.get('description', 'N/A')} | {repo_markdown} |"
         table += row + "\n"
     return table
 
