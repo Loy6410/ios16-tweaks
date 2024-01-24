@@ -8,9 +8,9 @@ def load_yaml(file_path):
 def sort_entries_by_name(entries):
     return sorted(entries, key=lambda x: x['name'].lower())
 
-def generate_markdown_table(entries, repos, category):
-    headers = "| Name | Compatible | Description | Repo |"
-    header_separator = "| --- | --- | --- | --- |"
+def generate_markdown_table(entries, repos):
+    headers = "| Name | Status | Repo |"
+    header_separator = "| --- | --- | --- |"
 
     table = headers + "\n" + header_separator + "\n"
     markdown_link_pattern = re.compile(r'\[.+\]\(.+\)')
@@ -23,14 +23,9 @@ def generate_markdown_table(entries, repos, category):
             repo_url = next((repo['url'] for repo in repos if repo['name'] == repo_name), None)
             repo_markdown = f"[{repo_name}]({repo_url})" if repo_url else repo_name
 
-        if category == "not_working":
-            compatibility = "❌"
-        elif category == "needs_testing":
-            compatibility = "⚠️"
-        else:
-            compatibility = "✔️"
+        status = entry.get('status', '✔️')
 
-        row = f"| {entry['name']} | {compatibility} | {entry.get('description', 'N/A')} | {repo_markdown} |"
+        row = f"| {entry['name']} | {status} | {repo_markdown} |"
         table += row + "\n"
     return table
 
@@ -52,18 +47,17 @@ def main():
     tweak_entries = sort_entries_by_name(data.get('tweaks', []))
     theme_entries = sort_entries_by_name(data.get('themes', []))
     not_working_entries = sort_entries_by_name(data.get('not_working', []))
+    needs_testing_entries = sort_entries_by_name(data.get('needs_testing', []))
 
-    merged_entries = sort_entries_by_name(tweak_entries + theme_entries + not_working_entries)
+    for entry in not_working_entries:
+        entry['status'] = '❌'
+    for entry in needs_testing_entries:
+        entry['status'] = '⚠️'
 
-    markdown_content += "## Compatible Tweaks and Themes\n"
-    markdown_content += generate_markdown_table(merged_entries, repos, "compatible") + "\n"
+    merged_entries = sort_entries_by_name(tweak_entries + theme_entries + not_working_entries + needs_testing_entries)
 
-    if not_working_entries:
-        markdown_content += "## Not Working Tweaks and Themes\n"
-        markdown_content += generate_markdown_table(not_working_entries, repos, "not_working") + "\n"
-
-    markdown_content += "## Needs Testing\n"
-    markdown_content += generate_markdown_table(sort_entries_by_name(data.get('needs_testing', [])), repos, "needs_testing") + "\n"
+    markdown_content += "## Tweaks and Themes\n"
+    markdown_content += generate_markdown_table(merged_entries, repos) + "\n"
 
     markdown_content += "## Credits\n"
     for credit in data.get('credits', []):
