@@ -6,27 +6,40 @@
 - [AnthoPak's Repo](https://repo.anthopak.dev/)
 - [b4db1r3's r3p0](https://b4db1r3.github.io/d3vr3p0/)
 - [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/)
+- [Brend0n's repo](https://brendonjkding.github.io/)
 - [Chariz](https://repo.chariz.com/)
 - [CreatureCoding](https://creaturecoding.com/repo/)
+- [CydiaGeek Source](https://cydiageek.yourepo.com/)
 - [Dcsyhi1998's Repo](https://dcsyhi1998.github.io)
 - [DTCalabro's Repo](https://dtcalabro.github.io/repo/)
 - [ETHN's Repo](https://nahtedetihw.github.io/)
 - [Ginsu Tweaks](https://ginsu.dev/repo/)
-- [HackYouriPhone](https://repo.hackyouriphone.org)
 - [Havoc](https://havoc.app)
+- [i0s-tweak3r-betas Source - YouRepo](https://i0s-tweak3r-betas.yourepo.com/)
 - [ichitaso repository](https://ichitaso.com/apt/)
 - [iCraze's Repo](https://repo.icrazeios.com)
 - [iGerman](https://repo.igerman.cc)
 - [iKarwan](https://repo.ikghd.me/)
-- [JunesiPhone](http://junesiphone.com/supersecret/)
+- [JunesiPhone](https://junesiphone.com/supersecret/)
+- [KingPuffdaddi's Repo](https://kingpuffdaddi.github.io/)
 - [Limneos Repo](http://limneos.net/repo/)
+- [Lizynz's Repo](https://lizynz.github.io/)
+- [Luki120's Repo](https://luki120.github.io/)
 - [Merona Repo](https://repo.co.kr)
 - [MiRO's Repo](https://miro92.com/repo/)
 - [MTAC's Repo](https://mtac.app/repo/)
+- [NoW4U2Kid](https://now4u2kid.github.io/)
+- [ops334's Repo](https://opa334.github.io/)
+- [P2KDev's Repo](https://p2kdev.github.io/repo/)
+- [Paisseon's Repo](https://paisseon.github.io/)
+- [PiniponSelvagem](https://piniponselvagem.github.io/cydia/)
 - [PoomSmart's Repo](https://poomsmart.github.io/repo/)
 - [rob311's beta repo](https://cydia.rob311.com/repo/)
-- [RootHide's Repo](https://roothide.github.io)
+- [roothide Repo](https://roothide.github.io/)
+- [sourcelocation's repo](https://sourcelocation.github.io/repo/)
 - [SparkDev](https://sparkdev.me)
+- [WilsontheWolf's Repo](https://repo.shorty.systems/)
+- [YouRepo](https://yourepo.com/)
 
 ## Tweaks
 | Name | Repository |
@@ -34,11 +47,10 @@
 | 3DAppVersionSpoofer | [RootHide's Repo](https://roothide.github.io) |
 | AdvancedBrightnessSlider | [Havoc](https://havoc.app) |
 | AirDrop16 | [Havoc](https://havoc.app) |
-| AirDrop16 | N/A |
 | Akara | [Chariz](https://repo.chariz.com/) |
 | Alpine | [Havoc](https://havoc.app) |
 | Always120 | [Havoc](https://havoc.app) |
-| Ambre | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
+| Amber | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | AnyKeyTrackPad | [Havoc](https://havoc.app) |
 | App Hider | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | App Library Disabler | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
@@ -81,6 +93,7 @@
 | Dodo | [Ginsu Tweaks](https://ginsu.dev/repo/) |
 | DownloadBar13 | [alias20](https://alias20.gitlab.io/apt/) |
 | DynamicPeninsula | [Limneos Repo](http://limneos.net/repo/) |
+| Eliza | [WilsontheWolf's Repo](https://repo.shorty.systems/) |
 | Ellekit | [RootHide's Repo](https://roothide.github.io) |
 | Eneko | [vyolit](https://github.com/vyolit/Eneko) |
 | Everest | [Havoc](https://havoc.app) |
@@ -89,7 +102,6 @@
 | FingerLock | [Havoc](https://havoc.app) |
 | Five Icon Dock | [RootHide's Repo](https://roothide.github.io) |
 | Gestune | [Havoc](https://havoc.app) |
-| Gravitation | [HackYouriPhone](https://repo.hackyouriphone.org) |
 | HideSerialNumber | [ichitaso repository](https://ichitaso.com/apt/) |
 | HotspotQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | IconOrder | [Havoc](https://havoc.app) |
@@ -117,10 +129,10 @@
 | PinAnim | [Havoc](https://havoc.app) |
 | PowerSelector | [ichitaso repository](https://ichitaso.com/apt/) |
 | QuickActions | [Chariz](https://repo.chariz.com/) |
+| QuickCCDismiss | [AnthoPak's Repo](https://repo.anthopak.dev/) |
 | ReachPlayer | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | RecordPause | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | Rune | [Havoc](https://havoc.app) |
-| Senri | [Chariz](https://repo.chariz.com/) |
 | Senri | [Chariz](https://repo.chariz.com/) |
 | ShowTouch | [RootHide's Repo](https://roothide.github.io) |
 | Shuffle | [CreatureCoding](https://creaturecoding.com/repo/) |
@@ -128,6 +140,7 @@
 | SmartNetwork iOS 15-16 | [Havoc](https://havoc.app) |
 | Snapper 3 | [Havoc](https://havoc.app) |
 | SnowBoard | [SparkDev](https://sparkdev.me) |
+| Sonitus | [Chariz](https://repo.chariz.com/) |
 | Spectrum | [alias20](https://alias20.gitlab.io/apt/) |
 | Speedster | [Havoc](https://havoc.app) |
 | StatusFolder | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
@@ -159,7 +172,6 @@
 | --- | --- |
 | CarBridge | [Havoc](https://havoc.app) |
 | iKeywi 4 | [Havoc](https://havoc.app) |
-| Sonitus | [Chariz](https://repo.chariz.com/) |
 
 ## Not Working
 | Name | Repository | Issue |
@@ -176,6 +188,7 @@
 | MilkyWay4 | [Akusio repo](https://akusio.github.io) | There's no option in the 3D touch menu to open the app as a window. |
 | Nexus | [Havoc](https://havoc.app) | Sends you to safe mode. |
 | Prysm | [Havoc](https://havoc.app) | Sends you to safe mode. |
+| SpeedrunTime | [sourcelocation's repo](https://sourcelocation.github.io/) | Doesn't work
 | VolVibes | [Havoc](https://havoc.app) | Doesn't work and crashes settings when attempting to open its preferences. |
 | YellowPages 2 | [MiRO's Repo](https://miro92.com/repo/) | Not activating with trueCaller. |
 | Zetsu | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) | Opening apps as windows in 3D touch menu works, but if you try to regularly open any app it causes springboard to crash. |
