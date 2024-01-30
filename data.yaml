@@ -325,7 +325,8 @@ tweaks:
     repo: "Dcsyhi1998's Repo"
   - name: "EmojiPort (iOS 12.0-17.3)"
     repo: "PoomSmart's Repo"
-  
+  - name: "AudioRecorder XS"
+    repo: "Limneos Repo"
   
 themes:
   - name: "Ambre"
@@ -360,9 +361,6 @@ not_working:
   - name: "Aemulo"
     repo: "Chariz"
     issue: "No tweak injection support for NFCD."
-  - name: "AudioRecorder XS"
-    repo: "Limneos Repo"
-    issue: "Doesn't record."
   - name: "Color3DIcons"
     repo: "BigBoss"
     issue: "Sends you to safe mode when attempting to open colored 3D touch menu."
