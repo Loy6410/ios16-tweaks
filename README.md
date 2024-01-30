@@ -69,6 +69,7 @@
 | BlurryAlerts | ✔️ | - | [alias20](https://alias20.gitlab.io/apt/) |
 | BoldersReborn | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | CAHighFPS | ✔️ | - | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
+| CallSilent | ✔️ | - | [Havoc](https://havoc.app) |
 | CarBridge | ❌ | It shows in settings, however it doesnt work in CarPlay. | [Havoc](https://havoc.app) |
 | CarBridge | ⚠️ | - | [Havoc](https://havoc.app) |
 | Cardculator | ✔️ | - | [Havoc](https://havoc.app) |
@@ -81,6 +82,7 @@
 | CCVibration | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | CCVPN | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | Chhotabanner | ✔️ | - | [GitHub](https://github.com/DrakeDrac/chhotabanner/) |
+| CircleApps15 | ✔️ | - | [Havoc](https://havoc.app) |
 | CloseAll | ✔️ | - | [Havoc](https://havoc.app) |
 | Color3DIcons | ❌ | Sends you to safe mode when attempting to open colored 3D touch menu. | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | ColorBar15 | ✔️ | - | [DTCalabro's Repo](https://dtcalabro.github.io/repo/) |
@@ -103,6 +105,7 @@
 | Dynamic Stage | ❌ | After installing and respring it freezes and restarts the device. | [Havoc](https://havoc.app) |
 | DynamicPeninsula | ✔️ | - | [Limneos Repo](http://limneos.net/repo/) |
 | Ellekit | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
+| EmojiPort (iOS 12.0-17.3) | ✔️ | - | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | Eneko | ✔️ | - | [GitHub](https://github.com/vyolit/Eneko) |
 | Everest | ✔️ | - | [Havoc](https://havoc.app) |
 | EZSwipe | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
@@ -125,6 +128,7 @@
 | Kayoko (app tweak injection) | ✔️ | - | [GitHub](https://github.com/vyolit/Kayoko) |
 | KeepMyJB | ✔️ | - | [iCraze's Repo](https://repo.icrazeios.com) |
 | KeySwipe | ✔️ | - | [GitHub](https://github.com/julioverne/KeySwipe11) |
+| Kiyoharu | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | KrashKop | ✔️ | - | [Havoc](https://havoc.app) |
 | Laetus | ✔️ | - | [SparkDev](https://sparkdev.me) |
 | LocationService (CCSupport) | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
@@ -171,6 +175,7 @@
 | Speedster | ✔️ | - | [Havoc](https://havoc.app) |
 | StatusFolder | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | Stella | ✔️ | - | [Havoc](https://havoc.app) |
+| Textyle 3 | ✔️ | - | [Havoc](https://havoc.app) |
 | Trim (saw for rootless) | ✔️ | - | [iGerman](https://repo.igerman.cc) |
 | TrollLEDs | ✔️ | - | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | TweakSettings | ✔️ | - | [CreatureCoding](https://creaturecoding.com/repo/) |
@@ -181,10 +186,11 @@
 | Violet Pro | ✔️ | - | [Havoc](https://havoc.app) |
 | VolSkip11 | ✔️ | - | [rob311's beta repo](https://cydia.rob311.com/repo/) |
 | VolVibes | ❌ | Doesn't work and crashes settings when attempting to open its preferences. | [Havoc](https://havoc.app) |
+| Waqt | ✔️ | - | [P2KDev's Repo](https://p2kdev.github.io/repo/) |
 | WifiQR | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YellowPages 2 | ❌ | Not activating with TrueCaller. | [MiRO's Repo](https://miro92.com/repo/) |
 | YouTubeKiller | ✔️ | - | [iKarwan](https://repo.ikghd.me/) |
-| Zetsu | ❌ | Opening apps as windows in 3D touch menu works, but if you try to regularly open any app it causes springboard to crash. | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) |
+| Zetsu | ✔️ | - | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) |
 
 ## Themes
 | Name | Status | Repo |
