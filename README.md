@@ -44,8 +44,6 @@
 ## Tweaks
 | Name | Status | Issue | Repo |
 | --- | --- | --- | --- |
-|  | ✔️ | - |  |
-|  | ✔️ | - |  |
 | 3DAppVersionSpoofer | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
 | 3DGlassierTouch | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | A-Font | ✔️ | - | [Nezuko's Repo](https://siieo.github.io/) |
