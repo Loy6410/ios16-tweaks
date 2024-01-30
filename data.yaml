@@ -390,8 +390,6 @@ tweaks:
   - name: "FloatingDockXVI"
     repo: "Havoc"
   - name: "HideDockBG"
-    repo: "Junesi"
-  - name: "HideDockBG"
     repo: "JunesiPhone"
   - name: "KillBackground13"
     repo: "Havoc"
