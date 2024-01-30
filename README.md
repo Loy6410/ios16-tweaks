@@ -138,7 +138,6 @@
 | Gestune | ✔️ | - | [Havoc](https://havoc.app) |
 | Glow | ✔️ | - | [Limneos Repo](http://limneos.net/repo/) |
 | Goodwifi | ✔️ | - | [alias20](https://alias20.gitlab.io/apt/) |
-| HideDockBG | ✔️ | - | Junesi |
 | HideDockBG | ✔️ | - | [JunesiPhone](http://junesiphone.com/supersecret/) |
 | HideSerialNumber | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
 | HotspotQR | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
