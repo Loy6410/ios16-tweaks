@@ -26,6 +26,7 @@
 - [Limneos Repo](http://limneos.net/repo)
 - [Lizynz's Repo](https://lizynz.github.io)
 - [Luki120's Repo](https://luki120.github.io)
+- [Maxiwee´s repo](https://maxiwee.de/)
 - [Merona Repo](https://repo.co.kr)
 - [MiRO's Repo](https://miro92.com/repo)
 - [MTAC's Repo](https://mtac.app/repo)
@@ -138,6 +139,7 @@
 | InstaLauncher 2 | [Havoc](https://havoc.app) |
 | IPA Ranger | roothide repo |
 | IPCarrier (rootless) | [Now4U2Kid](https://now4u2kid.github.io) |
+| iSmooth | [Maxiwee´s repo](https://maxiwee.de/) |
 | iSponsorBlock | [iCraze's Repo](https://repo.icrazeios.com) |
 | Jade | [Chariz](https://repo.chariz.com) |
 | Kayoko (app tweak injection) | [vyolit](https://github.com/vyolit) |

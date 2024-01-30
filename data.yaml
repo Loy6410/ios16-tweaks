@@ -79,6 +79,8 @@ repos:
     name: "iOS Repo Updates"
   - url: "https://luki120.github.io"
     name: "Luki120's Repo"
+  - url: "https://maxiwee.de/"
+    name: "Maxiwee´s repo"
 
 tweaks:
   - name: "VolSkip11"
@@ -435,6 +437,8 @@ tweaks:
     repo: "iCraze's Repo"
   - name: "Waqt"
     repo: "P2KDev's Repo"
+  - name: "iSmooth"
+    repo: "Maxiwee´s repo"
 
 themes:
   - name: "Ambre"
