@@ -247,3 +247,4 @@
 - [Roothide Bootstrap (by roothideDev)](https://github.com/roothide/Bootstrap)
 - [Serotonin semi-jailbreak (by htrowii and mineek)](https://github.com/mineek/Serotonin)
 - [GooglyBlox (for the README generation)](https://github.com/GooglyBlox)
+- [iOS/iPadOS 16.0 - 16.6.1 Serotonin Semi-Jailbreak Compatible Tweaks Spreadsheet Contributors](https://docs.google.com/spreadsheets/d/1iKEIsAq2ZADHOO_nR6En9tCPNqGYwUdM3wXW4qKjN5w/edit#gid=0)
