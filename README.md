@@ -102,6 +102,7 @@
 | FingerLock | [Havoc](https://havoc.app) |
 | Five Icon Dock | [RootHide's Repo](https://roothide.github.io) |
 | Gestune | [Havoc](https://havoc.app) |
+| Gravitation | N/A |
 | HideSerialNumber | [ichitaso repository](https://ichitaso.com/apt/) |
 | HotspotQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | IconOrder | [Havoc](https://havoc.app) |
@@ -154,6 +155,7 @@
 | VolSkip11 | [rob311's beta repo](https://cydia.rob311.com/repo/) |
 | WifiQR | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YouTubeKiller | [iKarwan](https://repo.ikghd.me/) |
+| Zetsu | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io)
 
 ## Themes
 | Name | Repository |
@@ -182,7 +184,6 @@
 | CarBridge | [Havoc](https://havoc.app) | It shows in settings, however it doesnt work in CarPlay. |
 | Color3DIcons | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) | Sends you to safe mode when attempting to open colored 3D touch menu. |
 | Diary | [GitHub](https://github.com/vyolit/Diary) | Crashes settings when attempting to open its preferences. |
-| Diary | [GitHub](https://github.com/vyolit/Diary) |  |
 | Dynamic Stage | [Havoc](https://havoc.app) | After installing and respring it freezes and restarts the device. |
 | Juice | [SparkDev](https://sparkdev.me) | It seems that after you link your Patreon account, the license doesn't take effect. |
 | MilkyWay4 | [Akusio repo](https://akusio.github.io) | There's no option in the 3D touch menu to open the app as a window. |
@@ -191,7 +192,7 @@
 | SpeedrunTime | [sourcelocation's repo](https://sourcelocation.github.io/) | Doesn't work
 | VolVibes | [Havoc](https://havoc.app) | Doesn't work and crashes settings when attempting to open its preferences. |
 | YellowPages 2 | [MiRO's Repo](https://miro92.com/repo/) | Not activating with trueCaller. |
-| Zetsu | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) | Opening apps as windows in 3D touch menu works, but if you try to regularly open any app it causes springboard to crash. |
+| EmojiPort | [PoomSmart's Repo](https://poomsmart.github.io/repo/) | Crashes apps |
 
 ## Credits
 - [Roothide Bootstrap (by roothideDev)](https://github.com/roothide/Bootstrap)
