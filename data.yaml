@@ -405,10 +405,6 @@ tweaks:
     repo: "BigBoss"
   - name: "A-Font"
     repo: "Nezuko's Repo"
-  - name: ""
-    repo: ""
-  - name: ""
-    repo: ""
 
 themes:
   - name: "Ambre"
