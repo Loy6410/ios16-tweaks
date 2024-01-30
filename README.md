@@ -100,7 +100,7 @@
 | Ding | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | DLEasy | ✔️ | - | [Havoc](https://havoc.app) |
 | DNDMyRecording | ✔️ | - | [Havoc](https://havoc.app) |
-| Dodo | ✔️ | - | [Ginsu Tweaks](https://ginsu.dev/repo/) |
+| Dodo (use with caution, respring loops reported from some users + broken functionality) | ✔️ | - | [Ginsu Tweaks](https://ginsu.dev/repo/) |
 | DownloadBar13 | ✔️ | - | [alias20](https://alias20.gitlab.io/apt/) |
 | Dynamic Stage | ❌ | After installing and respring it freezes and restarts the device. | [Havoc](https://havoc.app) |
 | DynamicPeninsula | ✔️ | - | [Limneos Repo](http://limneos.net/repo/) |
