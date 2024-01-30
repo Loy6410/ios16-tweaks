@@ -54,7 +54,7 @@
 | AppData | ✔️ | - | [RootHide's Repo](https://roothide.github.io) |
 | ArtFull | ✔️ | - | [Havoc](https://havoc.app) |
 | Atria | ✔️ | - | [Chariz](https://repo.chariz.com/) |
-| AudioRecorder XS | ❌ | Doesn't record. | [Limneos Repo](http://limneos.net/repo/) |
+| AudioRecorder XS | ✔️ | - | [Limneos Repo](http://limneos.net/repo/) |
 | AutoBrightnessToggle (CCSupport) | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
 | AutoUnlockX | ✔️ | - | [SparkDev](https://sparkdev.me) |
 | Axon | ❌ | Sends you to safe mode when clicking on notifications. | [Merona Repo](https://repo.co.kr) |
