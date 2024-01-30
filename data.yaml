@@ -155,7 +155,7 @@ tweaks:
     repo: "Havoc"
   - name: "DLEasy"
     repo: "Havoc"
-  - name: "Dodo"
+  - name: "Dodo (use with caution, respring loops reported from some users + broken functionality)"
     repo: "Ginsu Tweaks"
   - name: "DownloadBar13"
     repo: "alias20"
