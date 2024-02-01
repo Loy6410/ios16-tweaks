@@ -109,8 +109,6 @@ tweaks:
     repo: "Havoc"
   - name: "Always120"
     repo: "Havoc"
-  - name: "Ambre"
-    repo: "PoomSmart's Repo"
   - name: "AppColorClose"
     repo: "PoomSmart's Repo"
   - name: "AppData"
