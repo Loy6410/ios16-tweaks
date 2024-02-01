@@ -57,7 +57,6 @@
 | Alpine | ✔️ | - | [Havoc](https://havoc.app) |
 | Always120 | ✔️ | - | [Havoc](https://havoc.app) |
 | Amber (not for iPhone 13 Pro and above) | ✔️ | - | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
-| Ambre | ✔️ | - | [PoomSmart's Repo](https://poomsmart.github.io/repo/) |
 | AnyKeyTrackPad | ✔️ | - | [Havoc](https://havoc.app) |
 | App Hider | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | App Library Disabler | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
