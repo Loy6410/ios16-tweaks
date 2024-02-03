@@ -114,7 +114,6 @@
 | DenyPhotoAlbum | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | Designer | ✔️ | - | [JunesiPhone](http://junesiphone.com/supersecret/) |
 | Diary | ❌ | Crashes settings when attempting to open its preferences. | [GitHub](https://github.com/vyolit/Diary) |
-| Diary | ❌ |  | [GitHub](https://github.com/vyolit/Diary) |
 | Ding | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | DLEasy | ✔️ | - | [Havoc](https://havoc.app) |
 | DNDMyRecording | ✔️ | - | [Havoc](https://havoc.app) |
@@ -226,7 +225,6 @@
 | Waqt | ✔️ | - | [P2KDev's Repo](https://p2kdev.github.io/repo/) |
 | WifiQR | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YellowPages 2 | ❌ | Not activating with TrueCaller. | [MiRO's Repo](https://miro92.com/repo/) |
-| YouTubeKiller | ✔️ | - | [iKarwan](https://repo.ikghd.me/) |
 | YouTubeKiller | ✔️ | - | [iKarwan](https://repo.ikghd.me/) |
 | Zetsu | ✔️ | - | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) |
 
