@@ -114,7 +114,6 @@
 | DenyPhotoAlbum | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | Designer | ✔️ | - | [JunesiPhone](http://junesiphone.com/supersecret/) |
 | Diary | ❌ | Crashes settings when attempting to open its preferences. | [GitHub](https://github.com/vyolit/Diary) |
-| Diary | ❌ |  | [GitHub](https://github.com/vyolit/Diary) |
 | Ding | ✔️ | - | [Chariz](https://repo.chariz.com/) |
 | DLEasy | ✔️ | - | [Havoc](https://havoc.app) |
 | DNDMyRecording | ✔️ | - | [Havoc](https://havoc.app) |
