@@ -162,7 +162,7 @@
 | LocationService (CCSupport) | ✔️ | - | [ichitaso repository](https://ichitaso.com/apt/) |
 | LS Contacts | ❌ | After installing the tweak it appears on the lock screen and settings tweak list. You can make any custom settings with contacts list, color etc., but when you press and hold any contact you can feel haptic but it does not call the number. | [Havoc](https://havoc.app) |
 | Lynx 2 | ✔️ | - | [Havoc](https://havoc.app) |
-| MilkyWay4 | ❌ | There's no option in the 3D touch menu to open the app as a window. | [Akusio repo](https://akusio.github.io) |
+| MilkyWay4 | ✔️ | - | [Akusio repo](https://akusio.github.io) |
 | MobileGoose | ✔️ | - | [b4db1r3's r3p0](https://b4db1r3.github.io/d3vr3p0/) |
 | MoreLinesNotifications | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | MusicArtworkSave | ✔️ | - | [ETHN's Repo](https://nahtedetihw.github.io/) |
@@ -225,7 +225,6 @@
 | Waqt | ✔️ | - | [P2KDev's Repo](https://p2kdev.github.io/repo/) |
 | WifiQR | ✔️ | - | [BigBoss](https://apt.thebigboss.org/reprofiles/cydia/) |
 | YellowPages 2 | ❌ | Not activating with TrueCaller. | [MiRO's Repo](https://miro92.com/repo/) |
-| YouTubeKiller | ✔️ | - | [iKarwan](https://repo.ikghd.me/) |
 | YouTubeKiller | ✔️ | - | [iKarwan](https://repo.ikghd.me/) |
 | Zetsu | ✔️ | - | [Dcsyhi1998's Repo](https://dcsyhi1998.github.io) |
 
