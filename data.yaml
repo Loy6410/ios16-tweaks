@@ -69,6 +69,8 @@ repos:
     name: "opa334's Repo"
 
 tweaks:
+  - name: "MilkyWay4"
+    repo: "Akusio repo"
   - name: "VolSkip11"
     repo: "rob311's beta repo"
   - name: "TrollLEDs"
@@ -349,8 +351,6 @@ tweaks:
     repo: "PoomSmart's Repo"
   - name: "TwitchAdBlock"
     repo: "level3tjg's Repo"
-  - name: "YouTubeKiller"
-    repo: "iKarwan"
   - name: "CCAdsBeGone"
     repo: "PoomSmart's Repo"
   - name: "FrendaCC"
@@ -442,9 +442,6 @@ not_working:
   - name: "Juice"
     repo: "SparkDev"
     issue: "It seems that after you link your Patreon account, the license doesn't take effect."
-  - name: "MilkyWay4"
-    repo: "Akusio repo"
-    issue: "There's no option in the 3D touch menu to open the app as a window."
   - name: "Nexus"
     repo: "Havoc"
     issue: "Sends you to safe mode."
